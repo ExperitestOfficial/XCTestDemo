@@ -31,7 +31,7 @@ class UIKitCatalogUITests: XCTestCase {
         super.tearDown()
     }
     
-    
+    // Test is disabled
     func testButtonPage() {
         
         let app = XCUIApplication()
