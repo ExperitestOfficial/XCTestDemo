@@ -24,6 +24,15 @@
             </BuildableReference>
             <SkippedTests>
                <Test
+                  Identifier = "UIKitCatalogUITests/testAlertPage1()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testAlertPage2()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testAlertPage3()">
+               </Test>
+               <Test
                   Identifier = "UIKitCatalogUITests/testAlertPage4()">
                </Test>
                <Test
