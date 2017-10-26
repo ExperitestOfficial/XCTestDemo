@@ -58,7 +58,7 @@ class UIKitCatalogUITests: XCTestCase {
         app.alerts["A Short Title is Best"].buttons["OK"].tap()
         app.navigationBars["Alert Controllers"].buttons["UIKitCatalog"].tap()
         
-        XCTAssert(false,"TestAlertPage failed - this test failed intentionally !!!")
+        XCTAssert(false,"TestAlertPage failed - this test failed for the ANZ DEMO !!!")
         
     }
     
