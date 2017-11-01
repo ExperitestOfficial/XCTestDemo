@@ -39,6 +39,12 @@
                   Identifier = "UIKitCatalogUITests/testAlertPage5()">
                </Test>
                <Test
+                  Identifier = "UIKitCatalogUITests/testAlertPage6()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testTextFieldPage()">
+               </Test>
+               <Test
                   Identifier = "UIKitCatalogUITests/testTextFieldPage1()">
                </Test>
                <Test
