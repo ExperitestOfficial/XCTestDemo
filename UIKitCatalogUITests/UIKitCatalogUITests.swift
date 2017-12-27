@@ -49,17 +49,18 @@ class UIKitCatalogUITests: XCTestCase {
     func testAlertPage() {
         
         let app = XCUIApplication()
+        
         app.launch()
         app.navigationBars["UIView"].buttons["UIKitCatalog"].tap()
-        
         let tablesQuery = app.tables
         tablesQuery.staticTexts["Alert Controller"].tap()
         tablesQuery.staticTexts["Simple"].tap()
         app.alerts["A Short Title is Best"].buttons["OK"].tap()
-        app.navigationBars["Alert Controllers"].buttons["UIKitCatalog"].tap()
+        print("Total Buttons in the page: ",app.buttons.count)
+        let buttonsCounter = app.buttons.count
+        print("Total Buttons in the page: ",app.buttons.count)
         
-        XCTAssert(false,"TestAlertPage failed - This is a Demo for VMware !!!")
-        
+        XCTAssertTrue(buttonsCounter==3, "Test Failed (Sales Demo) !!!")
     }
     
     func testAlertPage1() {
