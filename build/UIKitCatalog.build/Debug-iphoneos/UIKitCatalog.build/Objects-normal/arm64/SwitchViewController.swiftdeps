@@ -1,0 +1,606 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SwitchViewController"
+provides-nominal:
+- "12UIKitCatalog20SwitchViewControllerC"
+provides-member:
+- ["12UIKitCatalog20SwitchViewControllerC", ""]
+provides-dynamic-lookup:
+- "configureDefaultSwitch"
+- "configureTintedSwitch"
+- "defaultSwitch"
+- "switchValueDidChange"
+- "tintedSwitch"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "NSLog"
+- !private "StringLiteralType"
+- "SwitchViewController"
+- !private "UIColor"
+- "UISwitch"
+- "UITableViewController"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["So15CALayerDelegateP", "addTarget"]
+- !private ["So15CALayerDelegateP", "onTintColor"]
+- !private ["So15CALayerDelegateP", "setOn"]
+- !private ["So15CALayerDelegateP", "thumbTintColor"]
+- !private ["So15CALayerDelegateP", "tintColor"]
+- !private ["s7CVarArgP", "NSLog"]
+- !private ["s7CVarArgP", "SwitchViewController"]
+- !private ["s7CVarArgP", "UIColor"]
+- !private ["s7CVarArgP", "addTarget"]
+- !private ["s7CVarArgP", "applicationBlueColor"]
+- !private ["s7CVarArgP", "applicationGreenColor"]
+- !private ["s7CVarArgP", "applicationPurpleColor"]
+- !private ["s7CVarArgP", "configureDefaultSwitch"]
+- !private ["s7CVarArgP", "configureTintedSwitch"]
+- !private ["s7CVarArgP", "defaultSwitch"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "onTintColor"]
+- !private ["s7CVarArgP", "setOn"]
+- !private ["s7CVarArgP", "switchValueDidChange"]
+- !private ["s7CVarArgP", "thumbTintColor"]
+- !private ["s7CVarArgP", "tintColor"]
+- !private ["s7CVarArgP", "tintedSwitch"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "NSLog"]
+- !private ["s28CustomDebugStringConvertibleP", "SwitchViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "UIColor"]
+- !private ["s28CustomDebugStringConvertibleP", "addTarget"]
+- !private ["s28CustomDebugStringConvertibleP", "applicationBlueColor"]
+- !private ["s28CustomDebugStringConvertibleP", "applicationGreenColor"]
+- !private ["s28CustomDebugStringConvertibleP", "applicationPurpleColor"]
+- !private ["s28CustomDebugStringConvertibleP", "configureDefaultSwitch"]
+- !private ["s28CustomDebugStringConvertibleP", "configureTintedSwitch"]
+- !private ["s28CustomDebugStringConvertibleP", "defaultSwitch"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "onTintColor"]
+- !private ["s28CustomDebugStringConvertibleP", "setOn"]
+- !private ["s28CustomDebugStringConvertibleP", "switchValueDidChange"]
+- !private ["s28CustomDebugStringConvertibleP", "thumbTintColor"]
+- !private ["s28CustomDebugStringConvertibleP", "tintColor"]
+- !private ["s28CustomDebugStringConvertibleP", "tintedSwitch"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "NSLog"]
+- !private ["s23CustomStringConvertibleP", "SwitchViewController"]
+- !private ["s23CustomStringConvertibleP", "UIColor"]
+- !private ["s23CustomStringConvertibleP", "addTarget"]
+- !private ["s23CustomStringConvertibleP", "applicationBlueColor"]
+- !private ["s23CustomStringConvertibleP", "applicationGreenColor"]
+- !private ["s23CustomStringConvertibleP", "applicationPurpleColor"]
+- !private ["s23CustomStringConvertibleP", "configureDefaultSwitch"]
+- !private ["s23CustomStringConvertibleP", "configureTintedSwitch"]
+- !private ["s23CustomStringConvertibleP", "defaultSwitch"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "onTintColor"]
+- !private ["s23CustomStringConvertibleP", "setOn"]
+- !private ["s23CustomStringConvertibleP", "switchValueDidChange"]
+- !private ["s23CustomStringConvertibleP", "thumbTintColor"]
+- !private ["s23CustomStringConvertibleP", "tintColor"]
+- !private ["s23CustomStringConvertibleP", "tintedSwitch"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "NSLog"]
+- !private ["s9EquatableP", "SwitchViewController"]
+- !private ["s9EquatableP", "UIColor"]
+- !private ["s9EquatableP", "addTarget"]
+- !private ["s9EquatableP", "applicationBlueColor"]
+- !private ["s9EquatableP", "applicationGreenColor"]
+- !private ["s9EquatableP", "applicationPurpleColor"]
+- !private ["s9EquatableP", "configureDefaultSwitch"]
+- !private ["s9EquatableP", "configureTintedSwitch"]
+- !private ["s9EquatableP", "defaultSwitch"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "onTintColor"]
+- !private ["s9EquatableP", "setOn"]
+- !private ["s9EquatableP", "switchValueDidChange"]
+- !private ["s9EquatableP", "thumbTintColor"]
+- !private ["s9EquatableP", "tintColor"]
+- !private ["s9EquatableP", "tintedSwitch"]
+- !private ["s9EquatableP", "valueChanged"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "valueChanged"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "NSLog"]
+- !private ["s8HashableP", "SwitchViewController"]
+- !private ["s8HashableP", "UIColor"]
+- !private ["s8HashableP", "addTarget"]
+- !private ["s8HashableP", "applicationBlueColor"]
+- !private ["s8HashableP", "applicationGreenColor"]
+- !private ["s8HashableP", "applicationPurpleColor"]
+- !private ["s8HashableP", "configureDefaultSwitch"]
+- !private ["s8HashableP", "configureTintedSwitch"]
+- !private ["s8HashableP", "defaultSwitch"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "onTintColor"]
+- !private ["s8HashableP", "setOn"]
+- !private ["s8HashableP", "switchValueDidChange"]
+- !private ["s8HashableP", "thumbTintColor"]
+- !private ["s8HashableP", "tintColor"]
+- !private ["s8HashableP", "tintedSwitch"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "NSLog"]
+- !private ["So8NSCodingP", "SwitchViewController"]
+- !private ["So8NSCodingP", "UIColor"]
+- !private ["So8NSCodingP", "addTarget"]
+- !private ["So8NSCodingP", "applicationBlueColor"]
+- !private ["So8NSCodingP", "applicationGreenColor"]
+- !private ["So8NSCodingP", "applicationPurpleColor"]
+- !private ["So8NSCodingP", "configureDefaultSwitch"]
+- !private ["So8NSCodingP", "configureTintedSwitch"]
+- !private ["So8NSCodingP", "defaultSwitch"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "onTintColor"]
+- !private ["So8NSCodingP", "setOn"]
+- !private ["So8NSCodingP", "switchValueDidChange"]
+- !private ["So8NSCodingP", "thumbTintColor"]
+- !private ["So8NSCodingP", "tintColor"]
+- !private ["So8NSCodingP", "tintedSwitch"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "applicationBlueColor"]
+- !private ["So9NSCopyingP", "applicationGreenColor"]
+- !private ["So9NSCopyingP", "applicationPurpleColor"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "NSLog"]
+- !private ["So26NSExtensionRequestHandlingP", "SwitchViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "UIColor"]
+- !private ["So26NSExtensionRequestHandlingP", "configureDefaultSwitch"]
+- !private ["So26NSExtensionRequestHandlingP", "configureTintedSwitch"]
+- !private ["So26NSExtensionRequestHandlingP", "defaultSwitch"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "switchValueDidChange"]
+- !private ["So26NSExtensionRequestHandlingP", "tintedSwitch"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "applicationBlueColor"]
+- !private ["So21NSItemProviderReadingP", "applicationGreenColor"]
+- !private ["So21NSItemProviderReadingP", "applicationPurpleColor"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "applicationBlueColor"]
+- !private ["So21NSItemProviderWritingP", "applicationGreenColor"]
+- !private ["So21NSItemProviderWritingP", "applicationPurpleColor"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "NSLog"]
+- !private ["So8NSObjectC", "SwitchViewController"]
+- !private ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "UISwitch"]
+- !private ["So8NSObjectC", "addTarget"]
+- !private ["So8NSObjectC", "applicationBlueColor"]
+- !private ["So8NSObjectC", "applicationGreenColor"]
+- !private ["So8NSObjectC", "applicationPurpleColor"]
+- ["So8NSObjectC", "configureDefaultSwitch"]
+- ["So8NSObjectC", "configureTintedSwitch"]
+- ["So8NSObjectC", "defaultSwitch"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "onTintColor"]
+- !private ["So8NSObjectC", "setOn"]
+- ["So8NSObjectC", "switchValueDidChange"]
+- !private ["So8NSObjectC", "thumbTintColor"]
+- !private ["So8NSObjectC", "tintColor"]
+- ["So8NSObjectC", "tintedSwitch"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "NSLog"]
+- !private ["So16NSObjectProtocolP", "SwitchViewController"]
+- !private ["So16NSObjectProtocolP", "UIColor"]
+- !private ["So16NSObjectProtocolP", "addTarget"]
+- !private ["So16NSObjectProtocolP", "applicationBlueColor"]
+- !private ["So16NSObjectProtocolP", "applicationGreenColor"]
+- !private ["So16NSObjectProtocolP", "applicationPurpleColor"]
+- !private ["So16NSObjectProtocolP", "configureDefaultSwitch"]
+- !private ["So16NSObjectProtocolP", "configureTintedSwitch"]
+- !private ["So16NSObjectProtocolP", "defaultSwitch"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "onTintColor"]
+- !private ["So16NSObjectProtocolP", "setOn"]
+- !private ["So16NSObjectProtocolP", "switchValueDidChange"]
+- !private ["So16NSObjectProtocolP", "thumbTintColor"]
+- !private ["So16NSObjectProtocolP", "tintColor"]
+- !private ["So16NSObjectProtocolP", "tintedSwitch"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "applicationBlueColor"]
+- !private ["So14NSSecureCodingP", "applicationGreenColor"]
+- !private ["So14NSSecureCodingP", "applicationPurpleColor"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s9OptionSetP", "valueChanged"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "valueChanged"]
+- !private ["s8SequenceP", "init"]
+- !private ["s10SetAlgebraP", "valueChanged"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["12UIKitCatalog20SwitchViewControllerC", "NSLog"]
+- !private ["12UIKitCatalog20SwitchViewControllerC", "SwitchViewController"]
+- !private ["12UIKitCatalog20SwitchViewControllerC", "UIColor"]
+- ["12UIKitCatalog20SwitchViewControllerC", "UISwitch"]
+- ["12UIKitCatalog20SwitchViewControllerC", "configureDefaultSwitch"]
+- ["12UIKitCatalog20SwitchViewControllerC", "configureTintedSwitch"]
+- ["12UIKitCatalog20SwitchViewControllerC", "defaultSwitch"]
+- ["12UIKitCatalog20SwitchViewControllerC", "deinit"]
+- ["12UIKitCatalog20SwitchViewControllerC", "init"]
+- ["12UIKitCatalog20SwitchViewControllerC", "switchValueDidChange"]
+- ["12UIKitCatalog20SwitchViewControllerC", "tintedSwitch"]
+- ["12UIKitCatalog20SwitchViewControllerC", "viewDidLoad"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "addTarget"]
+- !private ["So29UIAccessibilityIdentificationP", "onTintColor"]
+- !private ["So29UIAccessibilityIdentificationP", "setOn"]
+- !private ["So29UIAccessibilityIdentificationP", "thumbTintColor"]
+- !private ["So29UIAccessibilityIdentificationP", "tintColor"]
+- !private ["So12UIAppearanceP", "addTarget"]
+- !private ["So12UIAppearanceP", "onTintColor"]
+- !private ["So12UIAppearanceP", "setOn"]
+- !private ["So12UIAppearanceP", "thumbTintColor"]
+- !private ["So12UIAppearanceP", "tintColor"]
+- !private ["So21UIAppearanceContainerP", "NSLog"]
+- !private ["So21UIAppearanceContainerP", "SwitchViewController"]
+- !private ["So21UIAppearanceContainerP", "UIColor"]
+- !private ["So21UIAppearanceContainerP", "addTarget"]
+- !private ["So21UIAppearanceContainerP", "configureDefaultSwitch"]
+- !private ["So21UIAppearanceContainerP", "configureTintedSwitch"]
+- !private ["So21UIAppearanceContainerP", "defaultSwitch"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "onTintColor"]
+- !private ["So21UIAppearanceContainerP", "setOn"]
+- !private ["So21UIAppearanceContainerP", "switchValueDidChange"]
+- !private ["So21UIAppearanceContainerP", "thumbTintColor"]
+- !private ["So21UIAppearanceContainerP", "tintColor"]
+- !private ["So21UIAppearanceContainerP", "tintedSwitch"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So7UIColorC", "applicationBlueColor"]
+- !private ["So7UIColorC", "applicationGreenColor"]
+- !private ["So7UIColorC", "applicationPurpleColor"]
+- !private ["So18UIContentContainerP", "NSLog"]
+- !private ["So18UIContentContainerP", "SwitchViewController"]
+- !private ["So18UIContentContainerP", "UIColor"]
+- !private ["So18UIContentContainerP", "configureDefaultSwitch"]
+- !private ["So18UIContentContainerP", "configureTintedSwitch"]
+- !private ["So18UIContentContainerP", "defaultSwitch"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "switchValueDidChange"]
+- !private ["So18UIContentContainerP", "tintedSwitch"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So9UIControlC", "addTarget"]
+- !private ["So9UIControlC", "onTintColor"]
+- !private ["So9UIControlC", "setOn"]
+- !private ["So9UIControlC", "thumbTintColor"]
+- !private ["So9UIControlC", "tintColor"]
+- !private ["SC15UIControlEventsV", "valueChanged"]
+- !private ["So17UICoordinateSpaceP", "addTarget"]
+- !private ["So17UICoordinateSpaceP", "onTintColor"]
+- !private ["So17UICoordinateSpaceP", "setOn"]
+- !private ["So17UICoordinateSpaceP", "thumbTintColor"]
+- !private ["So17UICoordinateSpaceP", "tintColor"]
+- !private ["So13UIDynamicItemP", "addTarget"]
+- !private ["So13UIDynamicItemP", "onTintColor"]
+- !private ["So13UIDynamicItemP", "setOn"]
+- !private ["So13UIDynamicItemP", "thumbTintColor"]
+- !private ["So13UIDynamicItemP", "tintColor"]
+- !private ["So18UIFocusEnvironmentP", "NSLog"]
+- !private ["So18UIFocusEnvironmentP", "SwitchViewController"]
+- !private ["So18UIFocusEnvironmentP", "UIColor"]
+- !private ["So18UIFocusEnvironmentP", "addTarget"]
+- !private ["So18UIFocusEnvironmentP", "configureDefaultSwitch"]
+- !private ["So18UIFocusEnvironmentP", "configureTintedSwitch"]
+- !private ["So18UIFocusEnvironmentP", "defaultSwitch"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "onTintColor"]
+- !private ["So18UIFocusEnvironmentP", "setOn"]
+- !private ["So18UIFocusEnvironmentP", "switchValueDidChange"]
+- !private ["So18UIFocusEnvironmentP", "thumbTintColor"]
+- !private ["So18UIFocusEnvironmentP", "tintColor"]
+- !private ["So18UIFocusEnvironmentP", "tintedSwitch"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "addTarget"]
+- !private ["So11UIFocusItemP", "onTintColor"]
+- !private ["So11UIFocusItemP", "setOn"]
+- !private ["So11UIFocusItemP", "thumbTintColor"]
+- !private ["So11UIFocusItemP", "tintColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSLog"]
+- !private ["So30UIPasteConfigurationSupportingP", "SwitchViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "addTarget"]
+- !private ["So30UIPasteConfigurationSupportingP", "configureDefaultSwitch"]
+- !private ["So30UIPasteConfigurationSupportingP", "configureTintedSwitch"]
+- !private ["So30UIPasteConfigurationSupportingP", "defaultSwitch"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "onTintColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "setOn"]
+- !private ["So30UIPasteConfigurationSupportingP", "switchValueDidChange"]
+- !private ["So30UIPasteConfigurationSupportingP", "thumbTintColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "tintColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "tintedSwitch"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "NSLog"]
+- !private ["So11UIResponderC", "SwitchViewController"]
+- !private ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "UISwitch"]
+- !private ["So11UIResponderC", "addTarget"]
+- ["So11UIResponderC", "configureDefaultSwitch"]
+- ["So11UIResponderC", "configureTintedSwitch"]
+- ["So11UIResponderC", "defaultSwitch"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "onTintColor"]
+- !private ["So11UIResponderC", "setOn"]
+- ["So11UIResponderC", "switchValueDidChange"]
+- !private ["So11UIResponderC", "thumbTintColor"]
+- !private ["So11UIResponderC", "tintColor"]
+- ["So11UIResponderC", "tintedSwitch"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "NSLog"]
+- !private ["So30UIResponderStandardEditActionsP", "SwitchViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "UIColor"]
+- !private ["So30UIResponderStandardEditActionsP", "addTarget"]
+- !private ["So30UIResponderStandardEditActionsP", "configureDefaultSwitch"]
+- !private ["So30UIResponderStandardEditActionsP", "configureTintedSwitch"]
+- !private ["So30UIResponderStandardEditActionsP", "defaultSwitch"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "onTintColor"]
+- !private ["So30UIResponderStandardEditActionsP", "setOn"]
+- !private ["So30UIResponderStandardEditActionsP", "switchValueDidChange"]
+- !private ["So30UIResponderStandardEditActionsP", "thumbTintColor"]
+- !private ["So30UIResponderStandardEditActionsP", "tintColor"]
+- !private ["So30UIResponderStandardEditActionsP", "tintedSwitch"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So20UIScrollViewDelegateP", "NSLog"]
+- !private ["So20UIScrollViewDelegateP", "SwitchViewController"]
+- !private ["So20UIScrollViewDelegateP", "UIColor"]
+- !private ["So20UIScrollViewDelegateP", "configureDefaultSwitch"]
+- !private ["So20UIScrollViewDelegateP", "configureTintedSwitch"]
+- !private ["So20UIScrollViewDelegateP", "defaultSwitch"]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "switchValueDidChange"]
+- !private ["So20UIScrollViewDelegateP", "tintedSwitch"]
+- !private ["So20UIScrollViewDelegateP", "viewDidLoad"]
+- ["So20UIScrollViewDelegateP", ""]
+- !private ["So16UIStateRestoringP", "NSLog"]
+- !private ["So16UIStateRestoringP", "SwitchViewController"]
+- !private ["So16UIStateRestoringP", "UIColor"]
+- !private ["So16UIStateRestoringP", "configureDefaultSwitch"]
+- !private ["So16UIStateRestoringP", "configureTintedSwitch"]
+- !private ["So16UIStateRestoringP", "defaultSwitch"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "switchValueDidChange"]
+- !private ["So16UIStateRestoringP", "tintedSwitch"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So8UISwitchC", "addTarget"]
+- !private ["So8UISwitchC", "onTintColor"]
+- !private ["So8UISwitchC", "setOn"]
+- !private ["So8UISwitchC", "thumbTintColor"]
+- !private ["So8UISwitchC", "tintColor"]
+- !private ["So21UITableViewControllerC", "NSLog"]
+- !private ["So21UITableViewControllerC", "SwitchViewController"]
+- !private ["So21UITableViewControllerC", "UIColor"]
+- ["So21UITableViewControllerC", "UISwitch"]
+- ["So21UITableViewControllerC", "configureDefaultSwitch"]
+- ["So21UITableViewControllerC", "configureTintedSwitch"]
+- ["So21UITableViewControllerC", "defaultSwitch"]
+- ["So21UITableViewControllerC", "init"]
+- ["So21UITableViewControllerC", "switchValueDidChange"]
+- ["So21UITableViewControllerC", "tintedSwitch"]
+- ["So21UITableViewControllerC", "viewDidLoad"]
+- ["So21UITableViewControllerC", ""]
+- !private ["So21UITableViewDataSourceP", "NSLog"]
+- !private ["So21UITableViewDataSourceP", "SwitchViewController"]
+- !private ["So21UITableViewDataSourceP", "UIColor"]
+- !private ["So21UITableViewDataSourceP", "configureDefaultSwitch"]
+- !private ["So21UITableViewDataSourceP", "configureTintedSwitch"]
+- !private ["So21UITableViewDataSourceP", "defaultSwitch"]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "switchValueDidChange"]
+- !private ["So21UITableViewDataSourceP", "tintedSwitch"]
+- !private ["So21UITableViewDataSourceP", "viewDidLoad"]
+- ["So21UITableViewDataSourceP", ""]
+- !private ["So19UITableViewDelegateP", "NSLog"]
+- !private ["So19UITableViewDelegateP", "SwitchViewController"]
+- !private ["So19UITableViewDelegateP", "UIColor"]
+- !private ["So19UITableViewDelegateP", "configureDefaultSwitch"]
+- !private ["So19UITableViewDelegateP", "configureTintedSwitch"]
+- !private ["So19UITableViewDelegateP", "defaultSwitch"]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "switchValueDidChange"]
+- !private ["So19UITableViewDelegateP", "tintedSwitch"]
+- !private ["So19UITableViewDelegateP", "viewDidLoad"]
+- ["So19UITableViewDelegateP", ""]
+- !private ["So18UITraitEnvironmentP", "NSLog"]
+- !private ["So18UITraitEnvironmentP", "SwitchViewController"]
+- !private ["So18UITraitEnvironmentP", "UIColor"]
+- !private ["So18UITraitEnvironmentP", "addTarget"]
+- !private ["So18UITraitEnvironmentP", "configureDefaultSwitch"]
+- !private ["So18UITraitEnvironmentP", "configureTintedSwitch"]
+- !private ["So18UITraitEnvironmentP", "defaultSwitch"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "onTintColor"]
+- !private ["So18UITraitEnvironmentP", "setOn"]
+- !private ["So18UITraitEnvironmentP", "switchValueDidChange"]
+- !private ["So18UITraitEnvironmentP", "thumbTintColor"]
+- !private ["So18UITraitEnvironmentP", "tintColor"]
+- !private ["So18UITraitEnvironmentP", "tintedSwitch"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "addTarget"]
+- !private ["So6UIViewC", "onTintColor"]
+- !private ["So6UIViewC", "setOn"]
+- !private ["So6UIViewC", "thumbTintColor"]
+- !private ["So6UIViewC", "tintColor"]
+- !private ["So16UIViewControllerC", "NSLog"]
+- !private ["So16UIViewControllerC", "SwitchViewController"]
+- !private ["So16UIViewControllerC", "UIColor"]
+- ["So16UIViewControllerC", "UISwitch"]
+- ["So16UIViewControllerC", "configureDefaultSwitch"]
+- ["So16UIViewControllerC", "configureTintedSwitch"]
+- ["So16UIViewControllerC", "defaultSwitch"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "switchValueDidChange"]
+- ["So16UIViewControllerC", "tintedSwitch"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addTarget"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "onTintColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setOn"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "thumbTintColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "tintColor"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "applicationBlueColor"]
+- !private ["s26_ExpressibleByColorLiteralP", "applicationGreenColor"]
+- !private ["s26_ExpressibleByColorLiteralP", "applicationPurpleColor"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSLog"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SwitchViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addTarget"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "applicationBlueColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "applicationGreenColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "applicationPurpleColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configureDefaultSwitch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configureTintedSwitch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "defaultSwitch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "onTintColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setOn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "switchValueDidChange"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "thumbTintColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tintColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tintedSwitch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s9OptionSetP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- "12UIKitCatalog20SwitchViewControllerC"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So7UIColorC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "SC15UIControlEventsV"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- "So16UIStateRestoringP"
+- !private "So8UISwitchC"
+- "So21UITableViewControllerC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "93e4b5defb28ea721191219aeaff7034"

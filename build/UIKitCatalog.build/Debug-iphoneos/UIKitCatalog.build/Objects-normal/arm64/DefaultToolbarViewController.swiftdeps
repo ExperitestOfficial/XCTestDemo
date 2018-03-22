@@ -1,0 +1,465 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DefaultToolbarViewController"
+provides-nominal:
+- "12UIKitCatalog28DefaultToolbarViewControllerC"
+provides-member:
+- ["12UIKitCatalog28DefaultToolbarViewControllerC", ""]
+provides-dynamic-lookup:
+- "barButtonItemClicked"
+- "configureToolbar"
+- "customTitleBarButtonItem"
+- "flexibleSpaceBarButtonItem"
+- "toolbar"
+- "trashBarButtonItem"
+- "viewDidLoad"
+depends-top-level:
+- !private "Array"
+- !private "BooleanLiteralType"
+- "DefaultToolbarViewController"
+- !private "NSLocalizedString"
+- !private "NSLog"
+- !private "StringLiteralType"
+- "UIBarButtonItem"
+- "UIToolbar"
+- "UIViewController"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["So15CALayerDelegateP", "setItems"]
+- !private ["s7CVarArgP", "DefaultToolbarViewController"]
+- !private ["s7CVarArgP", "NSLocalizedString"]
+- !private ["s7CVarArgP", "NSLog"]
+- !private ["s7CVarArgP", "UIBarButtonItem"]
+- !private ["s7CVarArgP", "barButtonItemClicked"]
+- !private ["s7CVarArgP", "configureToolbar"]
+- !private ["s7CVarArgP", "customTitleBarButtonItem"]
+- !private ["s7CVarArgP", "flexibleSpaceBarButtonItem"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "setItems"]
+- !private ["s7CVarArgP", "toolbar"]
+- !private ["s7CVarArgP", "trashBarButtonItem"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "DefaultToolbarViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "NSLocalizedString"]
+- !private ["s28CustomDebugStringConvertibleP", "NSLog"]
+- !private ["s28CustomDebugStringConvertibleP", "UIBarButtonItem"]
+- !private ["s28CustomDebugStringConvertibleP", "barButtonItemClicked"]
+- !private ["s28CustomDebugStringConvertibleP", "configureToolbar"]
+- !private ["s28CustomDebugStringConvertibleP", "customTitleBarButtonItem"]
+- !private ["s28CustomDebugStringConvertibleP", "flexibleSpaceBarButtonItem"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "setItems"]
+- !private ["s28CustomDebugStringConvertibleP", "toolbar"]
+- !private ["s28CustomDebugStringConvertibleP", "trashBarButtonItem"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "DefaultToolbarViewController"]
+- !private ["s23CustomStringConvertibleP", "NSLocalizedString"]
+- !private ["s23CustomStringConvertibleP", "NSLog"]
+- !private ["s23CustomStringConvertibleP", "UIBarButtonItem"]
+- !private ["s23CustomStringConvertibleP", "barButtonItemClicked"]
+- !private ["s23CustomStringConvertibleP", "configureToolbar"]
+- !private ["s23CustomStringConvertibleP", "customTitleBarButtonItem"]
+- !private ["s23CustomStringConvertibleP", "flexibleSpaceBarButtonItem"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "setItems"]
+- !private ["s23CustomStringConvertibleP", "toolbar"]
+- !private ["s23CustomStringConvertibleP", "trashBarButtonItem"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "init"]
+- !private ["12UIKitCatalog28DefaultToolbarViewControllerC", "DefaultToolbarViewController"]
+- !private ["12UIKitCatalog28DefaultToolbarViewControllerC", "NSLocalizedString"]
+- !private ["12UIKitCatalog28DefaultToolbarViewControllerC", "NSLog"]
+- ["12UIKitCatalog28DefaultToolbarViewControllerC", "UIBarButtonItem"]
+- ["12UIKitCatalog28DefaultToolbarViewControllerC", "UIToolbar"]
+- ["12UIKitCatalog28DefaultToolbarViewControllerC", "barButtonItemClicked"]
+- ["12UIKitCatalog28DefaultToolbarViewControllerC", "configureToolbar"]
+- ["12UIKitCatalog28DefaultToolbarViewControllerC", "customTitleBarButtonItem"]
+- ["12UIKitCatalog28DefaultToolbarViewControllerC", "deinit"]
+- ["12UIKitCatalog28DefaultToolbarViewControllerC", "flexibleSpaceBarButtonItem"]
+- ["12UIKitCatalog28DefaultToolbarViewControllerC", "init"]
+- ["12UIKitCatalog28DefaultToolbarViewControllerC", "toolbar"]
+- ["12UIKitCatalog28DefaultToolbarViewControllerC", "trashBarButtonItem"]
+- ["12UIKitCatalog28DefaultToolbarViewControllerC", "viewDidLoad"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "DefaultToolbarViewController"]
+- !private ["s9EquatableP", "NSLocalizedString"]
+- !private ["s9EquatableP", "NSLog"]
+- !private ["s9EquatableP", "UIBarButtonItem"]
+- !private ["s9EquatableP", "barButtonItemClicked"]
+- !private ["s9EquatableP", "configureToolbar"]
+- !private ["s9EquatableP", "customTitleBarButtonItem"]
+- !private ["s9EquatableP", "flexibleSpace"]
+- !private ["s9EquatableP", "flexibleSpaceBarButtonItem"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "plain"]
+- !private ["s9EquatableP", "setItems"]
+- !private ["s9EquatableP", "toolbar"]
+- !private ["s9EquatableP", "trash"]
+- !private ["s9EquatableP", "trashBarButtonItem"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "DefaultToolbarViewController"]
+- !private ["s8HashableP", "NSLocalizedString"]
+- !private ["s8HashableP", "NSLog"]
+- !private ["s8HashableP", "UIBarButtonItem"]
+- !private ["s8HashableP", "barButtonItemClicked"]
+- !private ["s8HashableP", "configureToolbar"]
+- !private ["s8HashableP", "customTitleBarButtonItem"]
+- !private ["s8HashableP", "flexibleSpace"]
+- !private ["s8HashableP", "flexibleSpaceBarButtonItem"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "plain"]
+- !private ["s8HashableP", "setItems"]
+- !private ["s8HashableP", "toolbar"]
+- !private ["s8HashableP", "trash"]
+- !private ["s8HashableP", "trashBarButtonItem"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "DefaultToolbarViewController"]
+- !private ["So8NSCodingP", "NSLocalizedString"]
+- !private ["So8NSCodingP", "NSLog"]
+- !private ["So8NSCodingP", "UIBarButtonItem"]
+- !private ["So8NSCodingP", "barButtonItemClicked"]
+- !private ["So8NSCodingP", "configureToolbar"]
+- !private ["So8NSCodingP", "customTitleBarButtonItem"]
+- !private ["So8NSCodingP", "flexibleSpaceBarButtonItem"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "setItems"]
+- !private ["So8NSCodingP", "toolbar"]
+- !private ["So8NSCodingP", "trashBarButtonItem"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "DefaultToolbarViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "NSLocalizedString"]
+- !private ["So26NSExtensionRequestHandlingP", "NSLog"]
+- !private ["So26NSExtensionRequestHandlingP", "UIBarButtonItem"]
+- !private ["So26NSExtensionRequestHandlingP", "barButtonItemClicked"]
+- !private ["So26NSExtensionRequestHandlingP", "configureToolbar"]
+- !private ["So26NSExtensionRequestHandlingP", "customTitleBarButtonItem"]
+- !private ["So26NSExtensionRequestHandlingP", "flexibleSpaceBarButtonItem"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "toolbar"]
+- !private ["So26NSExtensionRequestHandlingP", "trashBarButtonItem"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "DefaultToolbarViewController"]
+- !private ["So8NSObjectC", "NSLocalizedString"]
+- !private ["So8NSObjectC", "NSLog"]
+- ["So8NSObjectC", "UIBarButtonItem"]
+- ["So8NSObjectC", "UIToolbar"]
+- ["So8NSObjectC", "barButtonItemClicked"]
+- ["So8NSObjectC", "configureToolbar"]
+- ["So8NSObjectC", "customTitleBarButtonItem"]
+- ["So8NSObjectC", "flexibleSpaceBarButtonItem"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "setItems"]
+- ["So8NSObjectC", "toolbar"]
+- ["So8NSObjectC", "trashBarButtonItem"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "DefaultToolbarViewController"]
+- !private ["So16NSObjectProtocolP", "NSLocalizedString"]
+- !private ["So16NSObjectProtocolP", "NSLog"]
+- !private ["So16NSObjectProtocolP", "UIBarButtonItem"]
+- !private ["So16NSObjectProtocolP", "barButtonItemClicked"]
+- !private ["So16NSObjectProtocolP", "configureToolbar"]
+- !private ["So16NSObjectProtocolP", "customTitleBarButtonItem"]
+- !private ["So16NSObjectProtocolP", "flexibleSpaceBarButtonItem"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "setItems"]
+- !private ["So16NSObjectProtocolP", "toolbar"]
+- !private ["So16NSObjectProtocolP", "trashBarButtonItem"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "flexibleSpace"]
+- !private ["s16RawRepresentableP", "plain"]
+- !private ["s16RawRepresentableP", "trash"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "setItems"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "setItems"]
+- !private ["So21UIAppearanceContainerP", "DefaultToolbarViewController"]
+- !private ["So21UIAppearanceContainerP", "NSLocalizedString"]
+- !private ["So21UIAppearanceContainerP", "NSLog"]
+- !private ["So21UIAppearanceContainerP", "UIBarButtonItem"]
+- !private ["So21UIAppearanceContainerP", "barButtonItemClicked"]
+- !private ["So21UIAppearanceContainerP", "configureToolbar"]
+- !private ["So21UIAppearanceContainerP", "customTitleBarButtonItem"]
+- !private ["So21UIAppearanceContainerP", "flexibleSpaceBarButtonItem"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "setItems"]
+- !private ["So21UIAppearanceContainerP", "toolbar"]
+- !private ["So21UIAppearanceContainerP", "trashBarButtonItem"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So15UIBarButtonItemC", "init"]
+- !private ["SC20UIBarButtonItemStyleO", "plain"]
+- !private ["SC21UIBarButtonSystemItemO", "flexibleSpace"]
+- !private ["SC21UIBarButtonSystemItemO", "trash"]
+- !private ["So9UIBarItemC", "init"]
+- !private ["So16UIBarPositioningP", "setItems"]
+- !private ["So18UIContentContainerP", "DefaultToolbarViewController"]
+- !private ["So18UIContentContainerP", "NSLocalizedString"]
+- !private ["So18UIContentContainerP", "NSLog"]
+- !private ["So18UIContentContainerP", "UIBarButtonItem"]
+- !private ["So18UIContentContainerP", "barButtonItemClicked"]
+- !private ["So18UIContentContainerP", "configureToolbar"]
+- !private ["So18UIContentContainerP", "customTitleBarButtonItem"]
+- !private ["So18UIContentContainerP", "flexibleSpaceBarButtonItem"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "toolbar"]
+- !private ["So18UIContentContainerP", "trashBarButtonItem"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "setItems"]
+- !private ["So13UIDynamicItemP", "setItems"]
+- !private ["So18UIFocusEnvironmentP", "DefaultToolbarViewController"]
+- !private ["So18UIFocusEnvironmentP", "NSLocalizedString"]
+- !private ["So18UIFocusEnvironmentP", "NSLog"]
+- !private ["So18UIFocusEnvironmentP", "UIBarButtonItem"]
+- !private ["So18UIFocusEnvironmentP", "barButtonItemClicked"]
+- !private ["So18UIFocusEnvironmentP", "configureToolbar"]
+- !private ["So18UIFocusEnvironmentP", "customTitleBarButtonItem"]
+- !private ["So18UIFocusEnvironmentP", "flexibleSpaceBarButtonItem"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "setItems"]
+- !private ["So18UIFocusEnvironmentP", "toolbar"]
+- !private ["So18UIFocusEnvironmentP", "trashBarButtonItem"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "setItems"]
+- !private ["So30UIPasteConfigurationSupportingP", "DefaultToolbarViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSLocalizedString"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSLog"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIBarButtonItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "barButtonItemClicked"]
+- !private ["So30UIPasteConfigurationSupportingP", "configureToolbar"]
+- !private ["So30UIPasteConfigurationSupportingP", "customTitleBarButtonItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "flexibleSpaceBarButtonItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "setItems"]
+- !private ["So30UIPasteConfigurationSupportingP", "toolbar"]
+- !private ["So30UIPasteConfigurationSupportingP", "trashBarButtonItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "DefaultToolbarViewController"]
+- !private ["So11UIResponderC", "NSLocalizedString"]
+- !private ["So11UIResponderC", "NSLog"]
+- ["So11UIResponderC", "UIBarButtonItem"]
+- ["So11UIResponderC", "UIToolbar"]
+- ["So11UIResponderC", "barButtonItemClicked"]
+- ["So11UIResponderC", "configureToolbar"]
+- ["So11UIResponderC", "customTitleBarButtonItem"]
+- ["So11UIResponderC", "flexibleSpaceBarButtonItem"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "setItems"]
+- ["So11UIResponderC", "toolbar"]
+- ["So11UIResponderC", "trashBarButtonItem"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "DefaultToolbarViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "NSLocalizedString"]
+- !private ["So30UIResponderStandardEditActionsP", "NSLog"]
+- !private ["So30UIResponderStandardEditActionsP", "UIBarButtonItem"]
+- !private ["So30UIResponderStandardEditActionsP", "barButtonItemClicked"]
+- !private ["So30UIResponderStandardEditActionsP", "configureToolbar"]
+- !private ["So30UIResponderStandardEditActionsP", "customTitleBarButtonItem"]
+- !private ["So30UIResponderStandardEditActionsP", "flexibleSpaceBarButtonItem"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "setItems"]
+- !private ["So30UIResponderStandardEditActionsP", "toolbar"]
+- !private ["So30UIResponderStandardEditActionsP", "trashBarButtonItem"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So16UIStateRestoringP", "DefaultToolbarViewController"]
+- !private ["So16UIStateRestoringP", "NSLocalizedString"]
+- !private ["So16UIStateRestoringP", "NSLog"]
+- !private ["So16UIStateRestoringP", "UIBarButtonItem"]
+- !private ["So16UIStateRestoringP", "barButtonItemClicked"]
+- !private ["So16UIStateRestoringP", "configureToolbar"]
+- !private ["So16UIStateRestoringP", "customTitleBarButtonItem"]
+- !private ["So16UIStateRestoringP", "flexibleSpaceBarButtonItem"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "toolbar"]
+- !private ["So16UIStateRestoringP", "trashBarButtonItem"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So9UIToolbarC", "setItems"]
+- !private ["So18UITraitEnvironmentP", "DefaultToolbarViewController"]
+- !private ["So18UITraitEnvironmentP", "NSLocalizedString"]
+- !private ["So18UITraitEnvironmentP", "NSLog"]
+- !private ["So18UITraitEnvironmentP", "UIBarButtonItem"]
+- !private ["So18UITraitEnvironmentP", "barButtonItemClicked"]
+- !private ["So18UITraitEnvironmentP", "configureToolbar"]
+- !private ["So18UITraitEnvironmentP", "customTitleBarButtonItem"]
+- !private ["So18UITraitEnvironmentP", "flexibleSpaceBarButtonItem"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "setItems"]
+- !private ["So18UITraitEnvironmentP", "toolbar"]
+- !private ["So18UITraitEnvironmentP", "trashBarButtonItem"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "setItems"]
+- !private ["So16UIViewControllerC", "DefaultToolbarViewController"]
+- !private ["So16UIViewControllerC", "NSLocalizedString"]
+- !private ["So16UIViewControllerC", "NSLog"]
+- ["So16UIViewControllerC", "UIBarButtonItem"]
+- ["So16UIViewControllerC", "UIToolbar"]
+- ["So16UIViewControllerC", "barButtonItemClicked"]
+- ["So16UIViewControllerC", "configureToolbar"]
+- ["So16UIViewControllerC", "customTitleBarButtonItem"]
+- ["So16UIViewControllerC", "flexibleSpaceBarButtonItem"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "toolbar"]
+- ["So16UIViewControllerC", "trashBarButtonItem"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setItems"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DefaultToolbarViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSLocalizedString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSLog"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIBarButtonItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "barButtonItemClicked"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configureToolbar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "customTitleBarButtonItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "flexibleSpaceBarButtonItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setItems"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "toolbar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "trashBarButtonItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- "12UIKitCatalog28DefaultToolbarViewControllerC"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So15UIBarButtonItemC"
+- !private "SC20UIBarButtonItemStyleO"
+- !private "SC21UIBarButtonSystemItemO"
+- !private "So9UIBarItemC"
+- !private "So16UIBarPositioningP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So9UIToolbarC"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "5174d7add37115b996252ffa9d7b1e0e"

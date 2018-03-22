@@ -1,0 +1,397 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ActivityIndicatorViewController"
+provides-nominal:
+- "12UIKitCatalog31ActivityIndicatorViewControllerC"
+provides-member:
+- ["12UIKitCatalog31ActivityIndicatorViewControllerC", ""]
+provides-dynamic-lookup:
+- "configureGrayActivityIndicatorView"
+- "configureTintedActivityIndicatorView"
+- "grayStyleActivityIndicatorView"
+- "tintedActivityIndicatorView"
+- "viewDidLoad"
+depends-top-level:
+- "ActivityIndicatorViewController"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "UIActivityIndicatorView"
+- !private "UIColor"
+- "UITableViewController"
+depends-member:
+- ["12UIKitCatalog31ActivityIndicatorViewControllerC", "UIActivityIndicatorView"]
+- !private ["12UIKitCatalog31ActivityIndicatorViewControllerC", "UIColor"]
+- ["12UIKitCatalog31ActivityIndicatorViewControllerC", "configureGrayActivityIndicatorView"]
+- ["12UIKitCatalog31ActivityIndicatorViewControllerC", "configureTintedActivityIndicatorView"]
+- ["12UIKitCatalog31ActivityIndicatorViewControllerC", "deinit"]
+- ["12UIKitCatalog31ActivityIndicatorViewControllerC", "grayStyleActivityIndicatorView"]
+- ["12UIKitCatalog31ActivityIndicatorViewControllerC", "init"]
+- ["12UIKitCatalog31ActivityIndicatorViewControllerC", "tintedActivityIndicatorView"]
+- ["12UIKitCatalog31ActivityIndicatorViewControllerC", "viewDidLoad"]
+- !private ["So15CALayerDelegateP", "activityIndicatorViewStyle"]
+- !private ["So15CALayerDelegateP", "color"]
+- !private ["So15CALayerDelegateP", "hidesWhenStopped"]
+- !private ["So15CALayerDelegateP", "startAnimating"]
+- !private ["s7CVarArgP", "UIColor"]
+- !private ["s7CVarArgP", "activityIndicatorViewStyle"]
+- !private ["s7CVarArgP", "applicationPurpleColor"]
+- !private ["s7CVarArgP", "color"]
+- !private ["s7CVarArgP", "configureGrayActivityIndicatorView"]
+- !private ["s7CVarArgP", "configureTintedActivityIndicatorView"]
+- !private ["s7CVarArgP", "grayStyleActivityIndicatorView"]
+- !private ["s7CVarArgP", "hidesWhenStopped"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "startAnimating"]
+- !private ["s7CVarArgP", "tintedActivityIndicatorView"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "UIColor"]
+- !private ["s28CustomDebugStringConvertibleP", "activityIndicatorViewStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "applicationPurpleColor"]
+- !private ["s28CustomDebugStringConvertibleP", "color"]
+- !private ["s28CustomDebugStringConvertibleP", "configureGrayActivityIndicatorView"]
+- !private ["s28CustomDebugStringConvertibleP", "configureTintedActivityIndicatorView"]
+- !private ["s28CustomDebugStringConvertibleP", "grayStyleActivityIndicatorView"]
+- !private ["s28CustomDebugStringConvertibleP", "hidesWhenStopped"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "startAnimating"]
+- !private ["s28CustomDebugStringConvertibleP", "tintedActivityIndicatorView"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "UIColor"]
+- !private ["s23CustomStringConvertibleP", "activityIndicatorViewStyle"]
+- !private ["s23CustomStringConvertibleP", "applicationPurpleColor"]
+- !private ["s23CustomStringConvertibleP", "color"]
+- !private ["s23CustomStringConvertibleP", "configureGrayActivityIndicatorView"]
+- !private ["s23CustomStringConvertibleP", "configureTintedActivityIndicatorView"]
+- !private ["s23CustomStringConvertibleP", "grayStyleActivityIndicatorView"]
+- !private ["s23CustomStringConvertibleP", "hidesWhenStopped"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "startAnimating"]
+- !private ["s23CustomStringConvertibleP", "tintedActivityIndicatorView"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9EquatableP", "UIColor"]
+- !private ["s9EquatableP", "activityIndicatorViewStyle"]
+- !private ["s9EquatableP", "applicationPurpleColor"]
+- !private ["s9EquatableP", "color"]
+- !private ["s9EquatableP", "configureGrayActivityIndicatorView"]
+- !private ["s9EquatableP", "configureTintedActivityIndicatorView"]
+- !private ["s9EquatableP", "gray"]
+- !private ["s9EquatableP", "grayStyleActivityIndicatorView"]
+- !private ["s9EquatableP", "hidesWhenStopped"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "startAnimating"]
+- !private ["s9EquatableP", "tintedActivityIndicatorView"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s8HashableP", "UIColor"]
+- !private ["s8HashableP", "activityIndicatorViewStyle"]
+- !private ["s8HashableP", "applicationPurpleColor"]
+- !private ["s8HashableP", "color"]
+- !private ["s8HashableP", "configureGrayActivityIndicatorView"]
+- !private ["s8HashableP", "configureTintedActivityIndicatorView"]
+- !private ["s8HashableP", "gray"]
+- !private ["s8HashableP", "grayStyleActivityIndicatorView"]
+- !private ["s8HashableP", "hidesWhenStopped"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "startAnimating"]
+- !private ["s8HashableP", "tintedActivityIndicatorView"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["So8NSCodingP", "UIColor"]
+- !private ["So8NSCodingP", "activityIndicatorViewStyle"]
+- !private ["So8NSCodingP", "applicationPurpleColor"]
+- !private ["So8NSCodingP", "color"]
+- !private ["So8NSCodingP", "configureGrayActivityIndicatorView"]
+- !private ["So8NSCodingP", "configureTintedActivityIndicatorView"]
+- !private ["So8NSCodingP", "grayStyleActivityIndicatorView"]
+- !private ["So8NSCodingP", "hidesWhenStopped"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "startAnimating"]
+- !private ["So8NSCodingP", "tintedActivityIndicatorView"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "applicationPurpleColor"]
+- !private ["So26NSExtensionRequestHandlingP", "UIColor"]
+- !private ["So26NSExtensionRequestHandlingP", "configureGrayActivityIndicatorView"]
+- !private ["So26NSExtensionRequestHandlingP", "configureTintedActivityIndicatorView"]
+- !private ["So26NSExtensionRequestHandlingP", "grayStyleActivityIndicatorView"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "tintedActivityIndicatorView"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "applicationPurpleColor"]
+- !private ["So21NSItemProviderWritingP", "applicationPurpleColor"]
+- ["So8NSObjectC", "UIActivityIndicatorView"]
+- !private ["So8NSObjectC", "UIColor"]
+- !private ["So8NSObjectC", "activityIndicatorViewStyle"]
+- !private ["So8NSObjectC", "applicationPurpleColor"]
+- !private ["So8NSObjectC", "color"]
+- ["So8NSObjectC", "configureGrayActivityIndicatorView"]
+- ["So8NSObjectC", "configureTintedActivityIndicatorView"]
+- ["So8NSObjectC", "grayStyleActivityIndicatorView"]
+- !private ["So8NSObjectC", "hidesWhenStopped"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "startAnimating"]
+- ["So8NSObjectC", "tintedActivityIndicatorView"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "UIColor"]
+- !private ["So16NSObjectProtocolP", "activityIndicatorViewStyle"]
+- !private ["So16NSObjectProtocolP", "applicationPurpleColor"]
+- !private ["So16NSObjectProtocolP", "color"]
+- !private ["So16NSObjectProtocolP", "configureGrayActivityIndicatorView"]
+- !private ["So16NSObjectProtocolP", "configureTintedActivityIndicatorView"]
+- !private ["So16NSObjectProtocolP", "grayStyleActivityIndicatorView"]
+- !private ["So16NSObjectProtocolP", "hidesWhenStopped"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "startAnimating"]
+- !private ["So16NSObjectProtocolP", "tintedActivityIndicatorView"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "applicationPurpleColor"]
+- !private ["s16RawRepresentableP", "gray"]
+- !private ["So29UIAccessibilityIdentificationP", "activityIndicatorViewStyle"]
+- !private ["So29UIAccessibilityIdentificationP", "color"]
+- !private ["So29UIAccessibilityIdentificationP", "hidesWhenStopped"]
+- !private ["So29UIAccessibilityIdentificationP", "startAnimating"]
+- !private ["So23UIActivityIndicatorViewC", "activityIndicatorViewStyle"]
+- !private ["So23UIActivityIndicatorViewC", "color"]
+- !private ["So23UIActivityIndicatorViewC", "hidesWhenStopped"]
+- !private ["So23UIActivityIndicatorViewC", "startAnimating"]
+- !private ["SC28UIActivityIndicatorViewStyleO", "gray"]
+- !private ["So12UIAppearanceP", "activityIndicatorViewStyle"]
+- !private ["So12UIAppearanceP", "color"]
+- !private ["So12UIAppearanceP", "hidesWhenStopped"]
+- !private ["So12UIAppearanceP", "startAnimating"]
+- !private ["So21UIAppearanceContainerP", "UIColor"]
+- !private ["So21UIAppearanceContainerP", "activityIndicatorViewStyle"]
+- !private ["So21UIAppearanceContainerP", "color"]
+- !private ["So21UIAppearanceContainerP", "configureGrayActivityIndicatorView"]
+- !private ["So21UIAppearanceContainerP", "configureTintedActivityIndicatorView"]
+- !private ["So21UIAppearanceContainerP", "grayStyleActivityIndicatorView"]
+- !private ["So21UIAppearanceContainerP", "hidesWhenStopped"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "startAnimating"]
+- !private ["So21UIAppearanceContainerP", "tintedActivityIndicatorView"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So7UIColorC", "applicationPurpleColor"]
+- !private ["So18UIContentContainerP", "UIColor"]
+- !private ["So18UIContentContainerP", "configureGrayActivityIndicatorView"]
+- !private ["So18UIContentContainerP", "configureTintedActivityIndicatorView"]
+- !private ["So18UIContentContainerP", "grayStyleActivityIndicatorView"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "tintedActivityIndicatorView"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "activityIndicatorViewStyle"]
+- !private ["So17UICoordinateSpaceP", "color"]
+- !private ["So17UICoordinateSpaceP", "hidesWhenStopped"]
+- !private ["So17UICoordinateSpaceP", "startAnimating"]
+- !private ["So13UIDynamicItemP", "activityIndicatorViewStyle"]
+- !private ["So13UIDynamicItemP", "color"]
+- !private ["So13UIDynamicItemP", "hidesWhenStopped"]
+- !private ["So13UIDynamicItemP", "startAnimating"]
+- !private ["So18UIFocusEnvironmentP", "UIColor"]
+- !private ["So18UIFocusEnvironmentP", "activityIndicatorViewStyle"]
+- !private ["So18UIFocusEnvironmentP", "color"]
+- !private ["So18UIFocusEnvironmentP", "configureGrayActivityIndicatorView"]
+- !private ["So18UIFocusEnvironmentP", "configureTintedActivityIndicatorView"]
+- !private ["So18UIFocusEnvironmentP", "grayStyleActivityIndicatorView"]
+- !private ["So18UIFocusEnvironmentP", "hidesWhenStopped"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "startAnimating"]
+- !private ["So18UIFocusEnvironmentP", "tintedActivityIndicatorView"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "activityIndicatorViewStyle"]
+- !private ["So11UIFocusItemP", "color"]
+- !private ["So11UIFocusItemP", "hidesWhenStopped"]
+- !private ["So11UIFocusItemP", "startAnimating"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "activityIndicatorViewStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "color"]
+- !private ["So30UIPasteConfigurationSupportingP", "configureGrayActivityIndicatorView"]
+- !private ["So30UIPasteConfigurationSupportingP", "configureTintedActivityIndicatorView"]
+- !private ["So30UIPasteConfigurationSupportingP", "grayStyleActivityIndicatorView"]
+- !private ["So30UIPasteConfigurationSupportingP", "hidesWhenStopped"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "startAnimating"]
+- !private ["So30UIPasteConfigurationSupportingP", "tintedActivityIndicatorView"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "UIActivityIndicatorView"]
+- !private ["So11UIResponderC", "UIColor"]
+- !private ["So11UIResponderC", "activityIndicatorViewStyle"]
+- !private ["So11UIResponderC", "color"]
+- ["So11UIResponderC", "configureGrayActivityIndicatorView"]
+- ["So11UIResponderC", "configureTintedActivityIndicatorView"]
+- ["So11UIResponderC", "grayStyleActivityIndicatorView"]
+- !private ["So11UIResponderC", "hidesWhenStopped"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "startAnimating"]
+- ["So11UIResponderC", "tintedActivityIndicatorView"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "UIColor"]
+- !private ["So30UIResponderStandardEditActionsP", "activityIndicatorViewStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "color"]
+- !private ["So30UIResponderStandardEditActionsP", "configureGrayActivityIndicatorView"]
+- !private ["So30UIResponderStandardEditActionsP", "configureTintedActivityIndicatorView"]
+- !private ["So30UIResponderStandardEditActionsP", "grayStyleActivityIndicatorView"]
+- !private ["So30UIResponderStandardEditActionsP", "hidesWhenStopped"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "startAnimating"]
+- !private ["So30UIResponderStandardEditActionsP", "tintedActivityIndicatorView"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So20UIScrollViewDelegateP", "UIColor"]
+- !private ["So20UIScrollViewDelegateP", "configureGrayActivityIndicatorView"]
+- !private ["So20UIScrollViewDelegateP", "configureTintedActivityIndicatorView"]
+- !private ["So20UIScrollViewDelegateP", "grayStyleActivityIndicatorView"]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "tintedActivityIndicatorView"]
+- !private ["So20UIScrollViewDelegateP", "viewDidLoad"]
+- ["So20UIScrollViewDelegateP", ""]
+- !private ["So16UIStateRestoringP", "UIColor"]
+- !private ["So16UIStateRestoringP", "configureGrayActivityIndicatorView"]
+- !private ["So16UIStateRestoringP", "configureTintedActivityIndicatorView"]
+- !private ["So16UIStateRestoringP", "grayStyleActivityIndicatorView"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "tintedActivityIndicatorView"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- ["So21UITableViewControllerC", "UIActivityIndicatorView"]
+- !private ["So21UITableViewControllerC", "UIColor"]
+- ["So21UITableViewControllerC", "configureGrayActivityIndicatorView"]
+- ["So21UITableViewControllerC", "configureTintedActivityIndicatorView"]
+- ["So21UITableViewControllerC", "grayStyleActivityIndicatorView"]
+- ["So21UITableViewControllerC", "init"]
+- ["So21UITableViewControllerC", "tintedActivityIndicatorView"]
+- ["So21UITableViewControllerC", "viewDidLoad"]
+- ["So21UITableViewControllerC", ""]
+- !private ["So21UITableViewDataSourceP", "UIColor"]
+- !private ["So21UITableViewDataSourceP", "configureGrayActivityIndicatorView"]
+- !private ["So21UITableViewDataSourceP", "configureTintedActivityIndicatorView"]
+- !private ["So21UITableViewDataSourceP", "grayStyleActivityIndicatorView"]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "tintedActivityIndicatorView"]
+- !private ["So21UITableViewDataSourceP", "viewDidLoad"]
+- ["So21UITableViewDataSourceP", ""]
+- !private ["So19UITableViewDelegateP", "UIColor"]
+- !private ["So19UITableViewDelegateP", "configureGrayActivityIndicatorView"]
+- !private ["So19UITableViewDelegateP", "configureTintedActivityIndicatorView"]
+- !private ["So19UITableViewDelegateP", "grayStyleActivityIndicatorView"]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "tintedActivityIndicatorView"]
+- !private ["So19UITableViewDelegateP", "viewDidLoad"]
+- ["So19UITableViewDelegateP", ""]
+- !private ["So18UITraitEnvironmentP", "UIColor"]
+- !private ["So18UITraitEnvironmentP", "activityIndicatorViewStyle"]
+- !private ["So18UITraitEnvironmentP", "color"]
+- !private ["So18UITraitEnvironmentP", "configureGrayActivityIndicatorView"]
+- !private ["So18UITraitEnvironmentP", "configureTintedActivityIndicatorView"]
+- !private ["So18UITraitEnvironmentP", "grayStyleActivityIndicatorView"]
+- !private ["So18UITraitEnvironmentP", "hidesWhenStopped"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "startAnimating"]
+- !private ["So18UITraitEnvironmentP", "tintedActivityIndicatorView"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "activityIndicatorViewStyle"]
+- !private ["So6UIViewC", "color"]
+- !private ["So6UIViewC", "hidesWhenStopped"]
+- !private ["So6UIViewC", "startAnimating"]
+- ["So16UIViewControllerC", "UIActivityIndicatorView"]
+- !private ["So16UIViewControllerC", "UIColor"]
+- ["So16UIViewControllerC", "configureGrayActivityIndicatorView"]
+- ["So16UIViewControllerC", "configureTintedActivityIndicatorView"]
+- ["So16UIViewControllerC", "grayStyleActivityIndicatorView"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "tintedActivityIndicatorView"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "activityIndicatorViewStyle"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "color"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "hidesWhenStopped"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "startAnimating"]
+- !private ["s26_ExpressibleByColorLiteralP", "applicationPurpleColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "activityIndicatorViewStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "applicationPurpleColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "color"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configureGrayActivityIndicatorView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configureTintedActivityIndicatorView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "grayStyleActivityIndicatorView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hidesWhenStopped"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startAnimating"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tintedActivityIndicatorView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+depends-nominal:
+- "12UIKitCatalog31ActivityIndicatorViewControllerC"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "s8HashableP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "s16RawRepresentableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So23UIActivityIndicatorViewC"
+- !private "SC28UIActivityIndicatorViewStyleO"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So7UIColorC"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- "So16UIStateRestoringP"
+- "So21UITableViewControllerC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s26_ExpressibleByColorLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "d7618a8d3becc032fb29b2b205d670a6"

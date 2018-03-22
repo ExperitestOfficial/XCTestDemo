@@ -43,6 +43,16 @@
       language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5579C7CA1F7CE3F200CD9948"
+               BuildableName = "UIKitCatalogUITests.xctest"
+               BlueprintName = "UIKitCatalogUITests"
+               ReferencedContainer = "container:UIKitCatalog.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference

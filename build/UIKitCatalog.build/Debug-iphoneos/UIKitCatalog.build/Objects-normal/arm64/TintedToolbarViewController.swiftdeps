@@ -1,0 +1,577 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TintedToolbarViewController"
+provides-nominal:
+- "12UIKitCatalog27TintedToolbarViewControllerC"
+provides-member:
+- ["12UIKitCatalog27TintedToolbarViewControllerC", ""]
+provides-dynamic-lookup:
+- "actionBarButtonItem"
+- "barButtonItemClicked"
+- "configureToolbar"
+- "flexibleSpaceBarButtonItem"
+- "refreshBarButtonItem"
+- "toolbar"
+- "viewDidLoad"
+depends-top-level:
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "NSLog"
+- !private "StringLiteralType"
+- "TintedToolbarViewController"
+- "UIBarButtonItem"
+- !private "UIColor"
+- "UIToolbar"
+- "UIViewController"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- !private ["So15CALayerDelegateP", "barStyle"]
+- !private ["So15CALayerDelegateP", "setItems"]
+- !private ["So15CALayerDelegateP", "tintColor"]
+- !private ["s7CVarArgP", "NSLog"]
+- !private ["s7CVarArgP", "TintedToolbarViewController"]
+- !private ["s7CVarArgP", "UIBarButtonItem"]
+- !private ["s7CVarArgP", "UIColor"]
+- !private ["s7CVarArgP", "actionBarButtonItem"]
+- !private ["s7CVarArgP", "applicationBlueColor"]
+- !private ["s7CVarArgP", "applicationGreenColor"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "barButtonItemClicked"]
+- !private ["s7CVarArgP", "barStyle"]
+- !private ["s7CVarArgP", "configureToolbar"]
+- !private ["s7CVarArgP", "flexibleSpaceBarButtonItem"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "refreshBarButtonItem"]
+- !private ["s7CVarArgP", "setItems"]
+- !private ["s7CVarArgP", "tintColor"]
+- !private ["s7CVarArgP", "toolbar"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "NSLog"]
+- !private ["s28CustomDebugStringConvertibleP", "TintedToolbarViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "UIBarButtonItem"]
+- !private ["s28CustomDebugStringConvertibleP", "UIColor"]
+- !private ["s28CustomDebugStringConvertibleP", "actionBarButtonItem"]
+- !private ["s28CustomDebugStringConvertibleP", "applicationBlueColor"]
+- !private ["s28CustomDebugStringConvertibleP", "applicationGreenColor"]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "barButtonItemClicked"]
+- !private ["s28CustomDebugStringConvertibleP", "barStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "configureToolbar"]
+- !private ["s28CustomDebugStringConvertibleP", "flexibleSpaceBarButtonItem"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "refreshBarButtonItem"]
+- !private ["s28CustomDebugStringConvertibleP", "setItems"]
+- !private ["s28CustomDebugStringConvertibleP", "tintColor"]
+- !private ["s28CustomDebugStringConvertibleP", "toolbar"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "NSLog"]
+- !private ["s23CustomStringConvertibleP", "TintedToolbarViewController"]
+- !private ["s23CustomStringConvertibleP", "UIBarButtonItem"]
+- !private ["s23CustomStringConvertibleP", "UIColor"]
+- !private ["s23CustomStringConvertibleP", "actionBarButtonItem"]
+- !private ["s23CustomStringConvertibleP", "applicationBlueColor"]
+- !private ["s23CustomStringConvertibleP", "applicationGreenColor"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "barButtonItemClicked"]
+- !private ["s23CustomStringConvertibleP", "barStyle"]
+- !private ["s23CustomStringConvertibleP", "configureToolbar"]
+- !private ["s23CustomStringConvertibleP", "flexibleSpaceBarButtonItem"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "refreshBarButtonItem"]
+- !private ["s23CustomStringConvertibleP", "setItems"]
+- !private ["s23CustomStringConvertibleP", "tintColor"]
+- !private ["s23CustomStringConvertibleP", "toolbar"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "NSLog"]
+- !private ["s9EquatableP", "TintedToolbarViewController"]
+- !private ["s9EquatableP", "UIBarButtonItem"]
+- !private ["s9EquatableP", "UIColor"]
+- !private ["s9EquatableP", "action"]
+- !private ["s9EquatableP", "actionBarButtonItem"]
+- !private ["s9EquatableP", "applicationBlueColor"]
+- !private ["s9EquatableP", "applicationGreenColor"]
+- !private ["s9EquatableP", "backgroundColor"]
+- !private ["s9EquatableP", "barButtonItemClicked"]
+- !private ["s9EquatableP", "barStyle"]
+- !private ["s9EquatableP", "blackTranslucent"]
+- !private ["s9EquatableP", "configureToolbar"]
+- !private ["s9EquatableP", "flexibleSpace"]
+- !private ["s9EquatableP", "flexibleSpaceBarButtonItem"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "refresh"]
+- !private ["s9EquatableP", "refreshBarButtonItem"]
+- !private ["s9EquatableP", "setItems"]
+- !private ["s9EquatableP", "tintColor"]
+- !private ["s9EquatableP", "toolbar"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "NSLog"]
+- !private ["s8HashableP", "TintedToolbarViewController"]
+- !private ["s8HashableP", "UIBarButtonItem"]
+- !private ["s8HashableP", "UIColor"]
+- !private ["s8HashableP", "action"]
+- !private ["s8HashableP", "actionBarButtonItem"]
+- !private ["s8HashableP", "applicationBlueColor"]
+- !private ["s8HashableP", "applicationGreenColor"]
+- !private ["s8HashableP", "backgroundColor"]
+- !private ["s8HashableP", "barButtonItemClicked"]
+- !private ["s8HashableP", "barStyle"]
+- !private ["s8HashableP", "blackTranslucent"]
+- !private ["s8HashableP", "configureToolbar"]
+- !private ["s8HashableP", "flexibleSpace"]
+- !private ["s8HashableP", "flexibleSpaceBarButtonItem"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "refresh"]
+- !private ["s8HashableP", "refreshBarButtonItem"]
+- !private ["s8HashableP", "setItems"]
+- !private ["s8HashableP", "tintColor"]
+- !private ["s8HashableP", "toolbar"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "NSLog"]
+- !private ["So8NSCodingP", "TintedToolbarViewController"]
+- !private ["So8NSCodingP", "UIBarButtonItem"]
+- !private ["So8NSCodingP", "UIColor"]
+- !private ["So8NSCodingP", "actionBarButtonItem"]
+- !private ["So8NSCodingP", "applicationBlueColor"]
+- !private ["So8NSCodingP", "applicationGreenColor"]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "barButtonItemClicked"]
+- !private ["So8NSCodingP", "barStyle"]
+- !private ["So8NSCodingP", "configureToolbar"]
+- !private ["So8NSCodingP", "flexibleSpaceBarButtonItem"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "refreshBarButtonItem"]
+- !private ["So8NSCodingP", "setItems"]
+- !private ["So8NSCodingP", "tintColor"]
+- !private ["So8NSCodingP", "toolbar"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "applicationBlueColor"]
+- !private ["So9NSCopyingP", "applicationGreenColor"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "NSLog"]
+- !private ["So26NSExtensionRequestHandlingP", "TintedToolbarViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "UIBarButtonItem"]
+- !private ["So26NSExtensionRequestHandlingP", "UIColor"]
+- !private ["So26NSExtensionRequestHandlingP", "actionBarButtonItem"]
+- !private ["So26NSExtensionRequestHandlingP", "barButtonItemClicked"]
+- !private ["So26NSExtensionRequestHandlingP", "configureToolbar"]
+- !private ["So26NSExtensionRequestHandlingP", "flexibleSpaceBarButtonItem"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "refreshBarButtonItem"]
+- !private ["So26NSExtensionRequestHandlingP", "toolbar"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "applicationBlueColor"]
+- !private ["So21NSItemProviderReadingP", "applicationGreenColor"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "applicationBlueColor"]
+- !private ["So21NSItemProviderWritingP", "applicationGreenColor"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "NSLog"]
+- !private ["So8NSObjectC", "TintedToolbarViewController"]
+- ["So8NSObjectC", "UIBarButtonItem"]
+- !private ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "UIToolbar"]
+- ["So8NSObjectC", "actionBarButtonItem"]
+- !private ["So8NSObjectC", "applicationBlueColor"]
+- !private ["So8NSObjectC", "applicationGreenColor"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- ["So8NSObjectC", "barButtonItemClicked"]
+- !private ["So8NSObjectC", "barStyle"]
+- ["So8NSObjectC", "configureToolbar"]
+- ["So8NSObjectC", "flexibleSpaceBarButtonItem"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "refreshBarButtonItem"]
+- !private ["So8NSObjectC", "setItems"]
+- !private ["So8NSObjectC", "tintColor"]
+- ["So8NSObjectC", "toolbar"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "NSLog"]
+- !private ["So16NSObjectProtocolP", "TintedToolbarViewController"]
+- !private ["So16NSObjectProtocolP", "UIBarButtonItem"]
+- !private ["So16NSObjectProtocolP", "UIColor"]
+- !private ["So16NSObjectProtocolP", "actionBarButtonItem"]
+- !private ["So16NSObjectProtocolP", "applicationBlueColor"]
+- !private ["So16NSObjectProtocolP", "applicationGreenColor"]
+- !private ["So16NSObjectProtocolP", "backgroundColor"]
+- !private ["So16NSObjectProtocolP", "barButtonItemClicked"]
+- !private ["So16NSObjectProtocolP", "barStyle"]
+- !private ["So16NSObjectProtocolP", "configureToolbar"]
+- !private ["So16NSObjectProtocolP", "flexibleSpaceBarButtonItem"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "refreshBarButtonItem"]
+- !private ["So16NSObjectProtocolP", "setItems"]
+- !private ["So16NSObjectProtocolP", "tintColor"]
+- !private ["So16NSObjectProtocolP", "toolbar"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "applicationBlueColor"]
+- !private ["So14NSSecureCodingP", "applicationGreenColor"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "action"]
+- !private ["s16RawRepresentableP", "blackTranslucent"]
+- !private ["s16RawRepresentableP", "flexibleSpace"]
+- !private ["s16RawRepresentableP", "refresh"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["12UIKitCatalog27TintedToolbarViewControllerC", "NSLog"]
+- !private ["12UIKitCatalog27TintedToolbarViewControllerC", "TintedToolbarViewController"]
+- ["12UIKitCatalog27TintedToolbarViewControllerC", "UIBarButtonItem"]
+- !private ["12UIKitCatalog27TintedToolbarViewControllerC", "UIColor"]
+- ["12UIKitCatalog27TintedToolbarViewControllerC", "UIToolbar"]
+- ["12UIKitCatalog27TintedToolbarViewControllerC", "actionBarButtonItem"]
+- ["12UIKitCatalog27TintedToolbarViewControllerC", "barButtonItemClicked"]
+- ["12UIKitCatalog27TintedToolbarViewControllerC", "configureToolbar"]
+- ["12UIKitCatalog27TintedToolbarViewControllerC", "deinit"]
+- ["12UIKitCatalog27TintedToolbarViewControllerC", "flexibleSpaceBarButtonItem"]
+- ["12UIKitCatalog27TintedToolbarViewControllerC", "init"]
+- ["12UIKitCatalog27TintedToolbarViewControllerC", "refreshBarButtonItem"]
+- ["12UIKitCatalog27TintedToolbarViewControllerC", "toolbar"]
+- ["12UIKitCatalog27TintedToolbarViewControllerC", "viewDidLoad"]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- !private ["So29UIAccessibilityIdentificationP", "barStyle"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "setItems"]
+- !private ["So29UIAccessibilityIdentificationP", "tintColor"]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- !private ["So12UIAppearanceP", "barStyle"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "setItems"]
+- !private ["So12UIAppearanceP", "tintColor"]
+- !private ["So21UIAppearanceContainerP", "NSLog"]
+- !private ["So21UIAppearanceContainerP", "TintedToolbarViewController"]
+- !private ["So21UIAppearanceContainerP", "UIBarButtonItem"]
+- !private ["So21UIAppearanceContainerP", "UIColor"]
+- !private ["So21UIAppearanceContainerP", "actionBarButtonItem"]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- !private ["So21UIAppearanceContainerP", "barButtonItemClicked"]
+- !private ["So21UIAppearanceContainerP", "barStyle"]
+- !private ["So21UIAppearanceContainerP", "configureToolbar"]
+- !private ["So21UIAppearanceContainerP", "flexibleSpaceBarButtonItem"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "refreshBarButtonItem"]
+- !private ["So21UIAppearanceContainerP", "setItems"]
+- !private ["So21UIAppearanceContainerP", "tintColor"]
+- !private ["So21UIAppearanceContainerP", "toolbar"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So15UIBarButtonItemC", "init"]
+- !private ["SC21UIBarButtonSystemItemO", "action"]
+- !private ["SC21UIBarButtonSystemItemO", "flexibleSpace"]
+- !private ["SC21UIBarButtonSystemItemO", "refresh"]
+- !private ["So9UIBarItemC", "init"]
+- !private ["So16UIBarPositioningP", "backgroundColor"]
+- !private ["So16UIBarPositioningP", "barStyle"]
+- !private ["So16UIBarPositioningP", "setItems"]
+- !private ["So16UIBarPositioningP", "tintColor"]
+- !private ["SC10UIBarStyleO", "blackTranslucent"]
+- !private ["So7UIColorC", "applicationBlueColor"]
+- !private ["So7UIColorC", "applicationGreenColor"]
+- !private ["So18UIContentContainerP", "NSLog"]
+- !private ["So18UIContentContainerP", "TintedToolbarViewController"]
+- !private ["So18UIContentContainerP", "UIBarButtonItem"]
+- !private ["So18UIContentContainerP", "UIColor"]
+- !private ["So18UIContentContainerP", "actionBarButtonItem"]
+- !private ["So18UIContentContainerP", "barButtonItemClicked"]
+- !private ["So18UIContentContainerP", "configureToolbar"]
+- !private ["So18UIContentContainerP", "flexibleSpaceBarButtonItem"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "refreshBarButtonItem"]
+- !private ["So18UIContentContainerP", "toolbar"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- !private ["So17UICoordinateSpaceP", "barStyle"]
+- !private ["So17UICoordinateSpaceP", "setItems"]
+- !private ["So17UICoordinateSpaceP", "tintColor"]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- !private ["So13UIDynamicItemP", "barStyle"]
+- !private ["So13UIDynamicItemP", "setItems"]
+- !private ["So13UIDynamicItemP", "tintColor"]
+- !private ["So18UIFocusEnvironmentP", "NSLog"]
+- !private ["So18UIFocusEnvironmentP", "TintedToolbarViewController"]
+- !private ["So18UIFocusEnvironmentP", "UIBarButtonItem"]
+- !private ["So18UIFocusEnvironmentP", "UIColor"]
+- !private ["So18UIFocusEnvironmentP", "actionBarButtonItem"]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- !private ["So18UIFocusEnvironmentP", "barButtonItemClicked"]
+- !private ["So18UIFocusEnvironmentP", "barStyle"]
+- !private ["So18UIFocusEnvironmentP", "configureToolbar"]
+- !private ["So18UIFocusEnvironmentP", "flexibleSpaceBarButtonItem"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "refreshBarButtonItem"]
+- !private ["So18UIFocusEnvironmentP", "setItems"]
+- !private ["So18UIFocusEnvironmentP", "tintColor"]
+- !private ["So18UIFocusEnvironmentP", "toolbar"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- !private ["So11UIFocusItemP", "barStyle"]
+- !private ["So11UIFocusItemP", "setItems"]
+- !private ["So11UIFocusItemP", "tintColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSLog"]
+- !private ["So30UIPasteConfigurationSupportingP", "TintedToolbarViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIBarButtonItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "actionBarButtonItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "barButtonItemClicked"]
+- !private ["So30UIPasteConfigurationSupportingP", "barStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "configureToolbar"]
+- !private ["So30UIPasteConfigurationSupportingP", "flexibleSpaceBarButtonItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "refreshBarButtonItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "setItems"]
+- !private ["So30UIPasteConfigurationSupportingP", "tintColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "toolbar"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "NSLog"]
+- !private ["So11UIResponderC", "TintedToolbarViewController"]
+- ["So11UIResponderC", "UIBarButtonItem"]
+- !private ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "UIToolbar"]
+- ["So11UIResponderC", "actionBarButtonItem"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- ["So11UIResponderC", "barButtonItemClicked"]
+- !private ["So11UIResponderC", "barStyle"]
+- ["So11UIResponderC", "configureToolbar"]
+- ["So11UIResponderC", "flexibleSpaceBarButtonItem"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "refreshBarButtonItem"]
+- !private ["So11UIResponderC", "setItems"]
+- !private ["So11UIResponderC", "tintColor"]
+- ["So11UIResponderC", "toolbar"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "NSLog"]
+- !private ["So30UIResponderStandardEditActionsP", "TintedToolbarViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "UIBarButtonItem"]
+- !private ["So30UIResponderStandardEditActionsP", "UIColor"]
+- !private ["So30UIResponderStandardEditActionsP", "actionBarButtonItem"]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- !private ["So30UIResponderStandardEditActionsP", "barButtonItemClicked"]
+- !private ["So30UIResponderStandardEditActionsP", "barStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "configureToolbar"]
+- !private ["So30UIResponderStandardEditActionsP", "flexibleSpaceBarButtonItem"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "refreshBarButtonItem"]
+- !private ["So30UIResponderStandardEditActionsP", "setItems"]
+- !private ["So30UIResponderStandardEditActionsP", "tintColor"]
+- !private ["So30UIResponderStandardEditActionsP", "toolbar"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So16UIStateRestoringP", "NSLog"]
+- !private ["So16UIStateRestoringP", "TintedToolbarViewController"]
+- !private ["So16UIStateRestoringP", "UIBarButtonItem"]
+- !private ["So16UIStateRestoringP", "UIColor"]
+- !private ["So16UIStateRestoringP", "actionBarButtonItem"]
+- !private ["So16UIStateRestoringP", "barButtonItemClicked"]
+- !private ["So16UIStateRestoringP", "configureToolbar"]
+- !private ["So16UIStateRestoringP", "flexibleSpaceBarButtonItem"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "refreshBarButtonItem"]
+- !private ["So16UIStateRestoringP", "toolbar"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So9UIToolbarC", "backgroundColor"]
+- !private ["So9UIToolbarC", "barStyle"]
+- !private ["So9UIToolbarC", "setItems"]
+- !private ["So9UIToolbarC", "tintColor"]
+- !private ["So18UITraitEnvironmentP", "NSLog"]
+- !private ["So18UITraitEnvironmentP", "TintedToolbarViewController"]
+- !private ["So18UITraitEnvironmentP", "UIBarButtonItem"]
+- !private ["So18UITraitEnvironmentP", "UIColor"]
+- !private ["So18UITraitEnvironmentP", "actionBarButtonItem"]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- !private ["So18UITraitEnvironmentP", "barButtonItemClicked"]
+- !private ["So18UITraitEnvironmentP", "barStyle"]
+- !private ["So18UITraitEnvironmentP", "configureToolbar"]
+- !private ["So18UITraitEnvironmentP", "flexibleSpaceBarButtonItem"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "refreshBarButtonItem"]
+- !private ["So18UITraitEnvironmentP", "setItems"]
+- !private ["So18UITraitEnvironmentP", "tintColor"]
+- !private ["So18UITraitEnvironmentP", "toolbar"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "backgroundColor"]
+- !private ["So6UIViewC", "barStyle"]
+- !private ["So6UIViewC", "setItems"]
+- !private ["So6UIViewC", "tintColor"]
+- !private ["So16UIViewControllerC", "NSLog"]
+- !private ["So16UIViewControllerC", "TintedToolbarViewController"]
+- ["So16UIViewControllerC", "UIBarButtonItem"]
+- !private ["So16UIViewControllerC", "UIColor"]
+- ["So16UIViewControllerC", "UIToolbar"]
+- ["So16UIViewControllerC", "actionBarButtonItem"]
+- ["So16UIViewControllerC", "barButtonItemClicked"]
+- ["So16UIViewControllerC", "configureToolbar"]
+- ["So16UIViewControllerC", "flexibleSpaceBarButtonItem"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "refreshBarButtonItem"]
+- ["So16UIViewControllerC", "toolbar"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "barStyle"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "setItems"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "tintColor"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "applicationBlueColor"]
+- !private ["s26_ExpressibleByColorLiteralP", "applicationGreenColor"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSLog"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TintedToolbarViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIBarButtonItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "actionBarButtonItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "applicationBlueColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "applicationGreenColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "barButtonItemClicked"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "barStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configureToolbar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "flexibleSpaceBarButtonItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "refreshBarButtonItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setItems"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tintColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "toolbar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "12UIKitCatalog27TintedToolbarViewControllerC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So15UIBarButtonItemC"
+- !private "SC21UIBarButtonSystemItemO"
+- !private "So9UIBarItemC"
+- !private "So16UIBarPositioningP"
+- !private "SC10UIBarStyleO"
+- !private "So7UIColorC"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So9UIToolbarC"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "083356e252d2e9f7e4fd760f26b56e36"

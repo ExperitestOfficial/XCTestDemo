@@ -1,0 +1,582 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SearchBarEmbeddedInNavigationBarViewController"
+provides-nominal:
+- "12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC"
+provides-member:
+- ["12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "searchController"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "NSLocalizedString"
+- "SearchBarEmbeddedInNavigationBarViewController"
+- "SearchControllerBaseViewController"
+- !private "SearchResultsViewController"
+- "UISearchController"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["So15CALayerDelegateP", "placeholder"]
+- !private ["So15CALayerDelegateP", "searchBarStyle"]
+- !private ["s7CVarArgP", "NSLocalizedString"]
+- !private ["s7CVarArgP", "SearchResultsViewController"]
+- !private ["s7CVarArgP", "StoryboardConstants"]
+- !private ["s7CVarArgP", "UISearchController"]
+- !private ["s7CVarArgP", "definesPresentationContext"]
+- !private ["s7CVarArgP", "hidesNavigationBarDuringPresentation"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "instantiateViewController"]
+- !private ["s7CVarArgP", "navigationItem"]
+- !private ["s7CVarArgP", "placeholder"]
+- !private ["s7CVarArgP", "searchBar"]
+- !private ["s7CVarArgP", "searchBarStyle"]
+- !private ["s7CVarArgP", "searchController"]
+- !private ["s7CVarArgP", "searchResultsUpdater"]
+- !private ["s7CVarArgP", "storyboard"]
+- !private ["s7CVarArgP", "titleView"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "NSLocalizedString"]
+- !private ["s28CustomDebugStringConvertibleP", "SearchResultsViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "StoryboardConstants"]
+- !private ["s28CustomDebugStringConvertibleP", "UISearchController"]
+- !private ["s28CustomDebugStringConvertibleP", "definesPresentationContext"]
+- !private ["s28CustomDebugStringConvertibleP", "hidesNavigationBarDuringPresentation"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiateViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationItem"]
+- !private ["s28CustomDebugStringConvertibleP", "placeholder"]
+- !private ["s28CustomDebugStringConvertibleP", "searchBar"]
+- !private ["s28CustomDebugStringConvertibleP", "searchBarStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "searchController"]
+- !private ["s28CustomDebugStringConvertibleP", "searchResultsUpdater"]
+- !private ["s28CustomDebugStringConvertibleP", "storyboard"]
+- !private ["s28CustomDebugStringConvertibleP", "titleView"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "NSLocalizedString"]
+- !private ["s23CustomStringConvertibleP", "SearchResultsViewController"]
+- !private ["s23CustomStringConvertibleP", "StoryboardConstants"]
+- !private ["s23CustomStringConvertibleP", "UISearchController"]
+- !private ["s23CustomStringConvertibleP", "definesPresentationContext"]
+- !private ["s23CustomStringConvertibleP", "hidesNavigationBarDuringPresentation"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "instantiateViewController"]
+- !private ["s23CustomStringConvertibleP", "navigationItem"]
+- !private ["s23CustomStringConvertibleP", "placeholder"]
+- !private ["s23CustomStringConvertibleP", "searchBar"]
+- !private ["s23CustomStringConvertibleP", "searchBarStyle"]
+- !private ["s23CustomStringConvertibleP", "searchController"]
+- !private ["s23CustomStringConvertibleP", "searchResultsUpdater"]
+- !private ["s23CustomStringConvertibleP", "storyboard"]
+- !private ["s23CustomStringConvertibleP", "titleView"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "NSLocalizedString"]
+- !private ["s9EquatableP", "SearchResultsViewController"]
+- !private ["s9EquatableP", "StoryboardConstants"]
+- !private ["s9EquatableP", "UISearchController"]
+- !private ["s9EquatableP", "definesPresentationContext"]
+- !private ["s9EquatableP", "hidesNavigationBarDuringPresentation"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "instantiateViewController"]
+- !private ["s9EquatableP", "minimal"]
+- !private ["s9EquatableP", "navigationItem"]
+- !private ["s9EquatableP", "placeholder"]
+- !private ["s9EquatableP", "searchBar"]
+- !private ["s9EquatableP", "searchBarStyle"]
+- !private ["s9EquatableP", "searchController"]
+- !private ["s9EquatableP", "searchResultsUpdater"]
+- !private ["s9EquatableP", "storyboard"]
+- !private ["s9EquatableP", "titleView"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "NSLocalizedString"]
+- !private ["s8HashableP", "SearchResultsViewController"]
+- !private ["s8HashableP", "StoryboardConstants"]
+- !private ["s8HashableP", "UISearchController"]
+- !private ["s8HashableP", "definesPresentationContext"]
+- !private ["s8HashableP", "hidesNavigationBarDuringPresentation"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "instantiateViewController"]
+- !private ["s8HashableP", "minimal"]
+- !private ["s8HashableP", "navigationItem"]
+- !private ["s8HashableP", "placeholder"]
+- !private ["s8HashableP", "searchBar"]
+- !private ["s8HashableP", "searchBarStyle"]
+- !private ["s8HashableP", "searchController"]
+- !private ["s8HashableP", "searchResultsUpdater"]
+- !private ["s8HashableP", "storyboard"]
+- !private ["s8HashableP", "titleView"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "NSLocalizedString"]
+- !private ["So8NSCodingP", "SearchResultsViewController"]
+- !private ["So8NSCodingP", "StoryboardConstants"]
+- !private ["So8NSCodingP", "UISearchController"]
+- !private ["So8NSCodingP", "definesPresentationContext"]
+- !private ["So8NSCodingP", "hidesNavigationBarDuringPresentation"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "navigationItem"]
+- !private ["So8NSCodingP", "placeholder"]
+- !private ["So8NSCodingP", "searchBar"]
+- !private ["So8NSCodingP", "searchBarStyle"]
+- !private ["So8NSCodingP", "searchController"]
+- !private ["So8NSCodingP", "searchResultsUpdater"]
+- !private ["So8NSCodingP", "storyboard"]
+- !private ["So8NSCodingP", "titleView"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "NSLocalizedString"]
+- !private ["So26NSExtensionRequestHandlingP", "SearchResultsViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "StoryboardConstants"]
+- !private ["So26NSExtensionRequestHandlingP", "UISearchController"]
+- !private ["So26NSExtensionRequestHandlingP", "definesPresentationContext"]
+- !private ["So26NSExtensionRequestHandlingP", "hidesNavigationBarDuringPresentation"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationItem"]
+- !private ["So26NSExtensionRequestHandlingP", "searchBar"]
+- !private ["So26NSExtensionRequestHandlingP", "searchController"]
+- !private ["So26NSExtensionRequestHandlingP", "searchResultsUpdater"]
+- !private ["So26NSExtensionRequestHandlingP", "storyboard"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "NSLocalizedString"]
+- !private ["So8NSObjectC", "SearchResultsViewController"]
+- !private ["So8NSObjectC", "StoryboardConstants"]
+- ["So8NSObjectC", "UISearchController"]
+- !private ["So8NSObjectC", "definesPresentationContext"]
+- !private ["So8NSObjectC", "hidesNavigationBarDuringPresentation"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "instantiateViewController"]
+- !private ["So8NSObjectC", "navigationItem"]
+- !private ["So8NSObjectC", "placeholder"]
+- !private ["So8NSObjectC", "searchBar"]
+- !private ["So8NSObjectC", "searchBarStyle"]
+- ["So8NSObjectC", "searchController"]
+- !private ["So8NSObjectC", "searchResultsUpdater"]
+- !private ["So8NSObjectC", "storyboard"]
+- !private ["So8NSObjectC", "titleView"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "NSLocalizedString"]
+- !private ["So16NSObjectProtocolP", "SearchResultsViewController"]
+- !private ["So16NSObjectProtocolP", "StoryboardConstants"]
+- !private ["So16NSObjectProtocolP", "UISearchController"]
+- !private ["So16NSObjectProtocolP", "definesPresentationContext"]
+- !private ["So16NSObjectProtocolP", "hidesNavigationBarDuringPresentation"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "instantiateViewController"]
+- !private ["So16NSObjectProtocolP", "navigationItem"]
+- !private ["So16NSObjectProtocolP", "placeholder"]
+- !private ["So16NSObjectProtocolP", "searchBar"]
+- !private ["So16NSObjectProtocolP", "searchBarStyle"]
+- !private ["So16NSObjectProtocolP", "searchController"]
+- !private ["So16NSObjectProtocolP", "searchResultsUpdater"]
+- !private ["So16NSObjectProtocolP", "storyboard"]
+- !private ["So16NSObjectProtocolP", "titleView"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "minimal"]
+- !private ["12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC", "NSLocalizedString"]
+- !private ["12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC", "SearchResultsViewController"]
+- ["12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC", "UISearchController"]
+- !private ["12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC", "definesPresentationContext"]
+- ["12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC", "deinit"]
+- ["12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC", "init"]
+- !private ["12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC", "navigationItem"]
+- ["12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC", "searchController"]
+- !private ["12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC", "storyboard"]
+- ["12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC", "viewDidLoad"]
+- !private ["12UIKitCatalog024SearchControllerBaseViewD0C", "NSLocalizedString"]
+- !private ["12UIKitCatalog024SearchControllerBaseViewD0C", "SearchResultsViewController"]
+- !private ["12UIKitCatalog024SearchControllerBaseViewD0C", "StoryboardConstants"]
+- ["12UIKitCatalog024SearchControllerBaseViewD0C", "UISearchController"]
+- !private ["12UIKitCatalog024SearchControllerBaseViewD0C", "definesPresentationContext"]
+- ["12UIKitCatalog024SearchControllerBaseViewD0C", "init"]
+- !private ["12UIKitCatalog024SearchControllerBaseViewD0C", "navigationItem"]
+- ["12UIKitCatalog024SearchControllerBaseViewD0C", "searchController"]
+- !private ["12UIKitCatalog024SearchControllerBaseViewD0C", "storyboard"]
+- ["12UIKitCatalog024SearchControllerBaseViewD0C", "viewDidLoad"]
+- ["12UIKitCatalog024SearchControllerBaseViewD0C", ""]
+- !private ["12UIKitCatalog27SearchResultsViewControllerC", "StoryboardConstants"]
+- !private ["12UIKitCatalog27SearchResultsViewControllerC", "deinit"]
+- !private ["s8SequenceP", "init"]
+- !private ["12UIKitCatalog27SearchResultsViewControllerC19StoryboardConstantsV", "identifier"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "placeholder"]
+- !private ["So29UIAccessibilityIdentificationP", "searchBarStyle"]
+- !private ["So12UIAppearanceP", "placeholder"]
+- !private ["So12UIAppearanceP", "searchBarStyle"]
+- !private ["So21UIAppearanceContainerP", "NSLocalizedString"]
+- !private ["So21UIAppearanceContainerP", "SearchResultsViewController"]
+- !private ["So21UIAppearanceContainerP", "StoryboardConstants"]
+- !private ["So21UIAppearanceContainerP", "UISearchController"]
+- !private ["So21UIAppearanceContainerP", "definesPresentationContext"]
+- !private ["So21UIAppearanceContainerP", "hidesNavigationBarDuringPresentation"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "navigationItem"]
+- !private ["So21UIAppearanceContainerP", "placeholder"]
+- !private ["So21UIAppearanceContainerP", "searchBar"]
+- !private ["So21UIAppearanceContainerP", "searchBarStyle"]
+- !private ["So21UIAppearanceContainerP", "searchController"]
+- !private ["So21UIAppearanceContainerP", "searchResultsUpdater"]
+- !private ["So21UIAppearanceContainerP", "storyboard"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So16UIBarPositioningP", "placeholder"]
+- !private ["So16UIBarPositioningP", "searchBarStyle"]
+- !private ["So18UIContentContainerP", "NSLocalizedString"]
+- !private ["So18UIContentContainerP", "SearchResultsViewController"]
+- !private ["So18UIContentContainerP", "StoryboardConstants"]
+- !private ["So18UIContentContainerP", "UISearchController"]
+- !private ["So18UIContentContainerP", "definesPresentationContext"]
+- !private ["So18UIContentContainerP", "hidesNavigationBarDuringPresentation"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "navigationItem"]
+- !private ["So18UIContentContainerP", "searchBar"]
+- !private ["So18UIContentContainerP", "searchController"]
+- !private ["So18UIContentContainerP", "searchResultsUpdater"]
+- !private ["So18UIContentContainerP", "storyboard"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "placeholder"]
+- !private ["So17UICoordinateSpaceP", "searchBarStyle"]
+- !private ["So13UIDynamicItemP", "placeholder"]
+- !private ["So13UIDynamicItemP", "searchBarStyle"]
+- !private ["So18UIFocusEnvironmentP", "NSLocalizedString"]
+- !private ["So18UIFocusEnvironmentP", "SearchResultsViewController"]
+- !private ["So18UIFocusEnvironmentP", "StoryboardConstants"]
+- !private ["So18UIFocusEnvironmentP", "UISearchController"]
+- !private ["So18UIFocusEnvironmentP", "definesPresentationContext"]
+- !private ["So18UIFocusEnvironmentP", "hidesNavigationBarDuringPresentation"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "navigationItem"]
+- !private ["So18UIFocusEnvironmentP", "placeholder"]
+- !private ["So18UIFocusEnvironmentP", "searchBar"]
+- !private ["So18UIFocusEnvironmentP", "searchBarStyle"]
+- !private ["So18UIFocusEnvironmentP", "searchController"]
+- !private ["So18UIFocusEnvironmentP", "searchResultsUpdater"]
+- !private ["So18UIFocusEnvironmentP", "storyboard"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "placeholder"]
+- !private ["So11UIFocusItemP", "searchBarStyle"]
+- !private ["So16UINavigationItemC", "titleView"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSLocalizedString"]
+- !private ["So30UIPasteConfigurationSupportingP", "SearchResultsViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "StoryboardConstants"]
+- !private ["So30UIPasteConfigurationSupportingP", "UISearchController"]
+- !private ["So30UIPasteConfigurationSupportingP", "definesPresentationContext"]
+- !private ["So30UIPasteConfigurationSupportingP", "hidesNavigationBarDuringPresentation"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "placeholder"]
+- !private ["So30UIPasteConfigurationSupportingP", "searchBar"]
+- !private ["So30UIPasteConfigurationSupportingP", "searchBarStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "searchController"]
+- !private ["So30UIPasteConfigurationSupportingP", "searchResultsUpdater"]
+- !private ["So30UIPasteConfigurationSupportingP", "storyboard"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "NSLocalizedString"]
+- !private ["So11UIResponderC", "SearchResultsViewController"]
+- !private ["So11UIResponderC", "StoryboardConstants"]
+- ["So11UIResponderC", "UISearchController"]
+- !private ["So11UIResponderC", "definesPresentationContext"]
+- !private ["So11UIResponderC", "hidesNavigationBarDuringPresentation"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "navigationItem"]
+- !private ["So11UIResponderC", "placeholder"]
+- !private ["So11UIResponderC", "searchBar"]
+- !private ["So11UIResponderC", "searchBarStyle"]
+- ["So11UIResponderC", "searchController"]
+- !private ["So11UIResponderC", "searchResultsUpdater"]
+- !private ["So11UIResponderC", "storyboard"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "NSLocalizedString"]
+- !private ["So30UIResponderStandardEditActionsP", "SearchResultsViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "StoryboardConstants"]
+- !private ["So30UIResponderStandardEditActionsP", "UISearchController"]
+- !private ["So30UIResponderStandardEditActionsP", "definesPresentationContext"]
+- !private ["So30UIResponderStandardEditActionsP", "hidesNavigationBarDuringPresentation"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationItem"]
+- !private ["So30UIResponderStandardEditActionsP", "placeholder"]
+- !private ["So30UIResponderStandardEditActionsP", "searchBar"]
+- !private ["So30UIResponderStandardEditActionsP", "searchBarStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "searchController"]
+- !private ["So30UIResponderStandardEditActionsP", "searchResultsUpdater"]
+- !private ["So30UIResponderStandardEditActionsP", "storyboard"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So20UIScrollViewDelegateP", "NSLocalizedString"]
+- !private ["So20UIScrollViewDelegateP", "SearchResultsViewController"]
+- !private ["So20UIScrollViewDelegateP", "StoryboardConstants"]
+- !private ["So20UIScrollViewDelegateP", "UISearchController"]
+- !private ["So20UIScrollViewDelegateP", "definesPresentationContext"]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "navigationItem"]
+- !private ["So20UIScrollViewDelegateP", "searchController"]
+- !private ["So20UIScrollViewDelegateP", "storyboard"]
+- !private ["So20UIScrollViewDelegateP", "viewDidLoad"]
+- ["So20UIScrollViewDelegateP", ""]
+- !private ["So11UISearchBarC", "placeholder"]
+- !private ["So11UISearchBarC", "searchBarStyle"]
+- !private ["SC16UISearchBarStyleO", "minimal"]
+- !private ["So18UISearchControllerC", "hidesNavigationBarDuringPresentation"]
+- !private ["So18UISearchControllerC", "init"]
+- !private ["So18UISearchControllerC", "searchBar"]
+- !private ["So18UISearchControllerC", "searchResultsUpdater"]
+- !private ["So23UISearchResultsUpdatingP", "StoryboardConstants"]
+- !private ["So16UIStateRestoringP", "NSLocalizedString"]
+- !private ["So16UIStateRestoringP", "SearchResultsViewController"]
+- !private ["So16UIStateRestoringP", "StoryboardConstants"]
+- !private ["So16UIStateRestoringP", "UISearchController"]
+- !private ["So16UIStateRestoringP", "definesPresentationContext"]
+- !private ["So16UIStateRestoringP", "hidesNavigationBarDuringPresentation"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "navigationItem"]
+- !private ["So16UIStateRestoringP", "searchBar"]
+- !private ["So16UIStateRestoringP", "searchController"]
+- !private ["So16UIStateRestoringP", "searchResultsUpdater"]
+- !private ["So16UIStateRestoringP", "storyboard"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So12UIStoryboardC", "instantiateViewController"]
+- !private ["So21UITableViewControllerC", "NSLocalizedString"]
+- !private ["So21UITableViewControllerC", "SearchResultsViewController"]
+- !private ["So21UITableViewControllerC", "StoryboardConstants"]
+- ["So21UITableViewControllerC", "UISearchController"]
+- !private ["So21UITableViewControllerC", "definesPresentationContext"]
+- ["So21UITableViewControllerC", "init"]
+- !private ["So21UITableViewControllerC", "navigationItem"]
+- ["So21UITableViewControllerC", "searchController"]
+- !private ["So21UITableViewControllerC", "storyboard"]
+- ["So21UITableViewControllerC", "viewDidLoad"]
+- !private ["So21UITableViewDataSourceP", "NSLocalizedString"]
+- !private ["So21UITableViewDataSourceP", "SearchResultsViewController"]
+- !private ["So21UITableViewDataSourceP", "StoryboardConstants"]
+- !private ["So21UITableViewDataSourceP", "UISearchController"]
+- !private ["So21UITableViewDataSourceP", "definesPresentationContext"]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "navigationItem"]
+- !private ["So21UITableViewDataSourceP", "searchController"]
+- !private ["So21UITableViewDataSourceP", "storyboard"]
+- !private ["So21UITableViewDataSourceP", "viewDidLoad"]
+- ["So21UITableViewDataSourceP", ""]
+- !private ["So19UITableViewDelegateP", "NSLocalizedString"]
+- !private ["So19UITableViewDelegateP", "SearchResultsViewController"]
+- !private ["So19UITableViewDelegateP", "StoryboardConstants"]
+- !private ["So19UITableViewDelegateP", "UISearchController"]
+- !private ["So19UITableViewDelegateP", "definesPresentationContext"]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "navigationItem"]
+- !private ["So19UITableViewDelegateP", "searchController"]
+- !private ["So19UITableViewDelegateP", "storyboard"]
+- !private ["So19UITableViewDelegateP", "viewDidLoad"]
+- ["So19UITableViewDelegateP", ""]
+- !private ["So17UITextInputTraitsP", "placeholder"]
+- !private ["So17UITextInputTraitsP", "searchBarStyle"]
+- !private ["So18UITraitEnvironmentP", "NSLocalizedString"]
+- !private ["So18UITraitEnvironmentP", "SearchResultsViewController"]
+- !private ["So18UITraitEnvironmentP", "StoryboardConstants"]
+- !private ["So18UITraitEnvironmentP", "UISearchController"]
+- !private ["So18UITraitEnvironmentP", "definesPresentationContext"]
+- !private ["So18UITraitEnvironmentP", "hidesNavigationBarDuringPresentation"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "navigationItem"]
+- !private ["So18UITraitEnvironmentP", "placeholder"]
+- !private ["So18UITraitEnvironmentP", "searchBar"]
+- !private ["So18UITraitEnvironmentP", "searchBarStyle"]
+- !private ["So18UITraitEnvironmentP", "searchController"]
+- !private ["So18UITraitEnvironmentP", "searchResultsUpdater"]
+- !private ["So18UITraitEnvironmentP", "storyboard"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "placeholder"]
+- !private ["So6UIViewC", "searchBarStyle"]
+- !private ["So16UIViewControllerC", "NSLocalizedString"]
+- !private ["So16UIViewControllerC", "SearchResultsViewController"]
+- !private ["So16UIViewControllerC", "StoryboardConstants"]
+- ["So16UIViewControllerC", "UISearchController"]
+- !private ["So16UIViewControllerC", "definesPresentationContext"]
+- !private ["So16UIViewControllerC", "hidesNavigationBarDuringPresentation"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "navigationItem"]
+- !private ["So16UIViewControllerC", "searchBar"]
+- ["So16UIViewControllerC", "searchController"]
+- !private ["So16UIViewControllerC", "searchResultsUpdater"]
+- !private ["So16UIViewControllerC", "storyboard"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "hidesNavigationBarDuringPresentation"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "init"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "searchBar"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "searchResultsUpdater"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "hidesNavigationBarDuringPresentation"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "init"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "searchBar"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "searchResultsUpdater"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "placeholder"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "searchBarStyle"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSLocalizedString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SearchResultsViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "StoryboardConstants"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UISearchController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "definesPresentationContext"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hidesNavigationBarDuringPresentation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiateViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "placeholder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "searchBar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "searchBarStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "searchController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "searchResultsUpdater"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "storyboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- "12UIKitCatalog029SearchBarEmbeddedInNavigationD14ViewControllerC"
+- "12UIKitCatalog024SearchControllerBaseViewD0C"
+- !private "12UIKitCatalog27SearchResultsViewControllerC"
+- !private "s8SequenceP"
+- !private "12UIKitCatalog27SearchResultsViewControllerC19StoryboardConstantsV"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So16UIBarPositioningP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So16UINavigationItemC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- !private "So11UISearchBarC"
+- !private "SC16UISearchBarStyleO"
+- !private "So18UISearchControllerC"
+- !private "So23UISearchResultsUpdatingP"
+- "So16UIStateRestoringP"
+- !private "So12UIStoryboardC"
+- "So21UITableViewControllerC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So17UITextInputTraitsP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "So37UIViewControllerAnimatedTransitioningP"
+- !private "So37UIViewControllerTransitioningDelegateP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "3e90a668fa6ed41372be1a3cb4852a07"
