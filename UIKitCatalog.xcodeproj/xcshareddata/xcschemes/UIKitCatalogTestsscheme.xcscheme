@@ -52,6 +52,44 @@
                BlueprintName = "UIKitCatalogUITests"
                ReferencedContainer = "container:UIKitCatalog.xcodeproj">
             </BuildableReference>
+            <SkippedTests>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testAlertPage()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testAlertPage1()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testAlertPage2()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testAlertPage3()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testAlertPage4()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testAlertPage5()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testAlertPage6()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testTextFieldPage1()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testTextFieldPage2()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testTextFieldPage3()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testTextFieldPage4()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testTextFieldPage5()">
+               </Test>
+            </SkippedTests>
          </TestableReference>
       </Testables>
       <MacroExpansion>
