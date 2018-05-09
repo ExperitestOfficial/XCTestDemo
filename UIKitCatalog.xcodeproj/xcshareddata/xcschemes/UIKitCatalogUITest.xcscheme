@@ -53,9 +53,6 @@
             </BuildableReference>
             <SkippedTests>
                <Test
-                  Identifier = "UIKitCatalogUITests/testAlertPage()">
-               </Test>
-               <Test
                   Identifier = "UIKitCatalogUITests/testAlertPage1()">
                </Test>
                <Test
@@ -72,6 +69,9 @@
                </Test>
                <Test
                   Identifier = "UIKitCatalogUITests/testAlertPage6()">
+               </Test>
+               <Test
+                  Identifier = "UIKitCatalogUITests/testTextFieldPage()">
                </Test>
                <Test
                   Identifier = "UIKitCatalogUITests/testTextFieldPage1()">
