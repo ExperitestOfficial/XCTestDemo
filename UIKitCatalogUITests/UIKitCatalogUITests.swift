@@ -60,7 +60,7 @@ class UIKitCatalogUITests: XCTestCase {
         let buttonsCounter = app.buttons.count
         print("Total Buttons in the page: ",app.buttons.count)
         
-        XCTAssertTrue(buttonsCounter==3, "Test Failed (ANZ) !!!")
+        XCTAssertTrue(buttonsCounter==3, "Test Failed - Demo 5/9/2018 !!!")
     }
     
     func testAlertPage1() {
